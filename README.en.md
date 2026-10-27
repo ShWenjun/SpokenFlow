@@ -33,9 +33,7 @@ Online models require your own API key. Translation sends captured input or sele
 
 ## Compatibility
 
-Standard Windows text boxes and the current paragraph in Word have local test evidence. Chrome's new-tab center search has a user-reported verification of the popup and translation. Other browser, Office and editor adapters have not all been tested.
-
-WeChat and Doubao desktop applications are currently unsupported. OCR is not available. Capture depends on both the input method and the target application. See the [compatibility matrix](docs/COMPATIBILITY.md) for scope and evidence.
+OCR is not available. Text capture depends on both the input method and the target application, so support for every application cannot be guaranteed. See the [compatibility matrix](docs/COMPATIBILITY.md) for each application's scope and evidence.
 
 ## Build from source
 
