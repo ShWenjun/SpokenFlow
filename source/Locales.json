@@ -1,0 +1,2036 @@
+{
+  " ms · 全部完成 ": {
+    "en": " ms · All done ",
+    "fr": " ms · Terminé ",
+    "de": " ms · Alles abgeschlossen ",
+    "ru": " мс · Всё завершено ",
+    "ko": " ms · 모두 완료 ",
+    "ja": " ms · すべて完了 ",
+    "zh": " ms · 全部完成 "
+  },
+  " ms · 另加停笔等待 ": {
+    "en": " ms · plus pause after typing ",
+    "fr": " ms · plus attente après frappe ",
+    "de": " ms · zuzüglich Wartezeit nach Tippen ",
+    "ru": " мс · плюс ожидание после ввода ",
+    "ko": " ms · 입력 중지 대기 추가 ",
+    "ja": " ms · 入力停止待ちを追加 ",
+    "zh": " ms · 另加停笔等待 "
+  },
+  " ms · 正在生成，完成后才能替换": {
+    "en": " ms · generating; replacement available when done",
+    "fr": " ms · génération en cours ; remplacement possible une fois terminé",
+    "de": " ms · wird generiert; Ersetzen erst nach Abschluss möglich",
+    "ru": " мс · идёт генерация; замена станет доступна по завершении",
+    "ko": " ms · 생성 중이며 완료 후 교체할 수 있습니다",
+    "ja": " ms · 生成中。完了後に置換できます",
+    "zh": " ms · 正在生成，完成后才能替换"
+  },
+  " ms 和读取耗时": {
+    "en": " ms and read time",
+    "fr": " ms et temps de lecture",
+    "de": " ms und Lesezeit",
+    "ru": " мс и время чтения",
+    "ko": " ms 및 읽기 시간",
+    "ja": " ms と読み取り時間",
+    "zh": " ms 和读取耗时"
+  },
+  " · Ctrl+Alt+E 替换": {
+    "en": " · Ctrl+Alt+E replace",
+    "fr": " · Ctrl+Alt+E remplacer",
+    "de": " · Ctrl+Alt+E ersetzen",
+    "ru": " · Ctrl+Alt+E заменить",
+    "ko": " · Ctrl+Alt+E 교체",
+    "ja": " · Ctrl+Alt+E 置換",
+    "zh": " · Ctrl+Alt+E 替换"
+  },
+  " · 正在生成": {
+    "en": " · generating",
+    "fr": " · génération en cours",
+    "de": " · wird generiert",
+    "ru": " · идёт генерация",
+    "ko": " · 생성 중",
+    "ja": " · 生成中",
+    "zh": " · 正在生成"
+  },
+  " · 长文可滚动": {
+    "en": " · long text scrollable",
+    "fr": " · texte long défilable",
+    "de": " · langer Text scrollbar",
+    "ru": " · длинный текст прокручивается",
+    "ko": " · 긴 텍스트 스크롤 가능",
+    "ja": " · 長文はスクロール可能",
+    "zh": " · 长文可滚动"
+  },
+  " 字": {
+    "en": " chars",
+    "fr": " caractères",
+    "de": " Zeichen",
+    "ru": " симв.",
+    "ko": " 자",
+    "ja": " 文字",
+    "zh": " 字"
+  },
+  " 字 · 未发送网络请求": {
+    "en": " chars · no network request sent",
+    "fr": " caractères · aucune requête réseau envoyée",
+    "de": " Zeichen · keine Netzwerkanfrage gesendet",
+    "ru": " симв. · сетевой запрос не отправлен",
+    "ko": " 자 · 네트워크 요청을 보내지 않음",
+    "ja": " 文字 · ネットワークリクエスト未送信",
+    "zh": " 字 · 未发送网络请求"
+  },
+  " 字。\n开启翻译后，这里会显示译文。": {
+    "en": " chars.\nAfter enabling translation, the translation will appear here.",
+    "fr": " caractères.\nUne fois la traduction activée, la traduction s'affichera ici.",
+    "de": " Zeichen.\nNach Aktivierung der Übersetzung erscheint die Übersetzung hier.",
+    "ru": " симв.\nПосле включения перевода здесь появится перевод.",
+    "ko": " 자.\n번역을 켜면 여기에 번역문이 표시됩니다.",
+    "ja": " 文字。\n翻訳を有効にすると、ここに訳文が表示されます。",
+    "zh": " 字。\n开启翻译后，这里会显示译文。"
+  },
+  " 部分快捷键未注册。": {
+    "en": " Some shortcuts were not registered.",
+    "fr": " Certains raccourcis n'ont pas été enregistrés.",
+    "de": " Einige Tastenkürzel konnten nicht registriert werden.",
+    "ru": " Некоторые сочетания клавиш не зарегистрированы.",
+    "ko": " 일부 단축키가 등록되지 않았습니다.",
+    "ja": " 一部のショートカットが登録されていません。",
+    "zh": " 部分快捷键未注册。"
+  },
+  "API Key 无效，请检查设置。": {
+    "en": "Invalid API Key. Please check your settings.",
+    "fr": "Clé API invalide. Veuillez vérifier les paramètres.",
+    "de": "Ungültiger API-Key. Bitte prüfen Sie die Einstellungen.",
+    "ru": "Недействительный API Key. Проверьте настройки.",
+    "ko": "API Key가 유효하지 않습니다. 설정을 확인하세요.",
+    "ja": "API Key が無効です。設定を確認してください。",
+    "zh": "API Key 无效，请检查设置。"
+  },
+  "API 测试失败或超时，请检查网络和密钥。": {
+    "en": "API test failed or timed out. Please check the network and your key.",
+    "fr": "Échec ou expiration du test API. Vérifiez le réseau et la clé.",
+    "de": "API-Test fehlgeschlagen oder Zeitüberschreitung. Bitte Netzwerk und Schlüssel prüfen.",
+    "ru": "Тест API не пройден или превышено время ожидания. Проверьте сеть и ключ.",
+    "ko": "API 테스트 실패 또는 시간 초과입니다. 네트워크와 키를 확인하세요.",
+    "ja": "API テストに失敗したかタイムアウトしました。ネットワークとキーを確認してください。",
+    "zh": "API 测试失败或超时，请检查网络和密钥。"
+  },
+  "API 连接成功；点击保存并开启翻译即可使用。": {
+    "en": "API connected successfully; click Save and enable translation to use.",
+    "fr": "API connectée ; cliquez sur Enregistrer et activez la traduction pour l'utiliser.",
+    "de": "API erfolgreich verbunden; klicken Sie auf Speichern und aktivieren Sie die Übersetzung.",
+    "ru": "API подключён успешно; нажмите «Сохранить» и включите перевод для использования.",
+    "ko": "API가 성공적으로 연결되었습니다. 저장을 클릭하고 번역을 켜면 사용할 수 있습니다.",
+    "ja": "API 接続に成功しました。「保存」をクリックして翻訳を有効にすると使用できます。",
+    "zh": "API 连接成功；点击保存并开启翻译即可使用。"
+  },
+  "Ctrl + Alt + E   替换当前区域       Ctrl + Alt + Z   恢复原文": {
+    "en": "Ctrl + Alt + E   Replace current area       Ctrl + Alt + Z   Restore original",
+    "fr": "Ctrl + Alt + E   Remplacer la zone actuelle       Ctrl + Alt + Z   Restaurer l'original",
+    "de": "Ctrl + Alt + E   Aktuellen Bereich ersetzen       Ctrl + Alt + Z   Original wiederherstellen",
+    "ru": "Ctrl + Alt + E   Заменить текущую область       Ctrl + Alt + Z   Восстановить оригинал",
+    "ko": "Ctrl + Alt + E   현재 영역 교체       Ctrl + Alt + Z   원문 복원",
+    "ja": "Ctrl + Alt + E   現在の領域を置換       Ctrl + Alt + Z   原文を復元",
+    "zh": "Ctrl + Alt + E   替换当前区域       Ctrl + Alt + Z   恢复原文"
+  },
+  "Ctrl + Alt + Space   开启 / 暂停       Ctrl + Alt + R   重新翻译": {
+    "en": "Ctrl + Alt + Space   Start / Pause       Ctrl + Alt + R   Translate again",
+    "fr": "Ctrl + Alt + Space   Démarrer / Pause       Ctrl + Alt + R   Retraduire",
+    "de": "Ctrl + Alt + Space   Starten / Pausieren       Ctrl + Alt + R   Erneut übersetzen",
+    "ru": "Ctrl + Alt + Space   Запуск / Пауза       Ctrl + Alt + R   Перевести заново",
+    "ko": "Ctrl + Alt + Space   시작 / 일시정지       Ctrl + Alt + R   다시 번역",
+    "ja": "Ctrl + Alt + Space   開始 / 一時停止       Ctrl + Alt + R   再翻訳",
+    "zh": "Ctrl + Alt + Space   开启 / 暂停       Ctrl + Alt + R   重新翻译"
+  },
+  "Ctrl+Alt+E 替换": {
+    "en": "Ctrl+Alt+E replace ",
+    "fr": "Ctrl+Alt+E remplacer",
+    "de": "Ctrl+Alt+E ersetzen",
+    "ru": "Ctrl+Alt+E заменить",
+    "ko": "Ctrl+Alt+E 교체",
+    "ja": "Ctrl+Alt+E 置換",
+    "zh": "Ctrl+Alt+E 替换"
+  },
+  "Ctrl+Alt+R 重试 · 原文保持原样": {
+    "en": "Ctrl+Alt+R retry · original text unchanged",
+    "fr": "Ctrl+Alt+R réessayer · texte original inchangé",
+    "de": "Ctrl+Alt+R erneut versuchen · Originaltext unverändert",
+    "ru": "Ctrl+Alt+R повторить · исходный текст без изменений",
+    "ko": "Ctrl+Alt+R 재시도 · 원문은 그대로 유지",
+    "ja": "Ctrl+Alt+R 再試行 · 原文はそのまま",
+    "zh": "Ctrl+Alt+R 重试 · 原文保持原样"
+  },
+  "Excel 请进入单元格编辑模式；不读取整张工作表": {
+    "en": "In Excel, enter cell edit mode; the whole sheet is not read",
+    "fr": "Dans Excel, passez en mode édition de cellule ; la feuille entière n'est pas lue",
+    "de": "In Excel in den Zellbearbeitungsmodus wechseln; das gesamte Arbeitsblatt wird nicht gelesen",
+    "ru": "В Excel войдите в режим редактирования ячейки; весь лист не читается",
+    "ko": "Excel에서는 셀 편집 모드로 들어가세요. 시트 전체는 읽지 않습니다",
+    "ja": "Excel ではセル編集モードに入ってください。シート全体は読み取りません",
+    "zh": "Excel 请进入单元格编辑模式；不读取整张工作表"
+  },
+  "Java Access Bridge 版本不兼容": {
+    "en": "Java Access Bridge version incompatible",
+    "fr": "Version de Java Access Bridge incompatible",
+    "de": "Java Access Bridge-Version inkompatibel",
+    "ru": "Несовместимая версия Java Access Bridge",
+    "ko": "Java Access Bridge 버전이 호환되지 않습니다",
+    "ja": "Java Access Bridge のバージョンが非互換です",
+    "zh": "Java Access Bridge 版本不兼容"
+  },
+  "Office 当前区域无法核对或正在忙，已取消替换。": {
+    "en": "Office current input scope cannot be verified or is busy. Replacement canceled.",
+    "fr": "La portée de saisie actuelle d'Office ne peut pas être vérifiée ou est occupée. Remplacement annulé.",
+    "de": "Der aktuelle Eingabebereich von Office kann nicht überprüft werden oder ist beschäftigt. Ersetzung abgebrochen.",
+    "ru": "Текущая область ввода Office недоступна для проверки или занята. Замена отменена.",
+    "ko": "Office 현재 입력 범위를 확인할 수 없거나 사용 중입니다. 바꾸기가 취소되었습니다.",
+    "ja": "Office の現在の入力スコープを確認できないか、ビジー状態です。置換を中止しました。",
+    "zh": "Office 当前区域无法核对或正在忙，已取消替换。"
+  },
+  "Office 当前区域暂不可读取": {
+    "en": "Office current input scope is temporarily unreadable",
+    "fr": "La portée de saisie actuelle d'Office est temporairement illisible",
+    "de": "Der aktuelle Eingabebereich von Office ist vorübergehend nicht lesbar",
+    "ru": "Текущая область ввода Office временно недоступна для чтения",
+    "ko": "Office 현재 입력 범위를 일시적으로 읽을 수 없습니다",
+    "ja": "Office の現在の入力スコープを一時的に読み取れません",
+    "zh": "Office 当前区域暂不可读取"
+  },
+  "PyCharm 不允许选择当前文本，请复制译文使用。": {
+    "en": "PyCharm does not allow selecting the current text. Please copy the translation to use it.",
+    "fr": "PyCharm n'autorise pas la sélection du texte actuel. Veuillez copier la traduction pour l'utiliser.",
+    "de": "PyCharm erlaubt es nicht, den aktuellen Text auszuwählen. Bitte kopieren Sie die Übersetzung zur Verwendung.",
+    "ru": "PyCharm не разрешает выделять текущий текст. Скопируйте перевод для использования.",
+    "ko": "PyCharm에서 현재 텍스트를 선택할 수 없습니다. 번역을 복사하여 사용하세요.",
+    "ja": "PyCharm では現在のテキストを選択できません。翻訳をコピーして使用してください。",
+    "zh": "PyCharm 不允许选择当前文本，请复制译文使用。"
+  },
+  "PyCharm 当前行已变化。": {
+    "en": "The current line in PyCharm has changed.",
+    "fr": "La ligne actuelle dans PyCharm a changé.",
+    "de": "Die aktuelle Zeile in PyCharm hat sich geändert.",
+    "ru": "Текущая строка в PyCharm изменилась.",
+    "ko": "PyCharm의 현재 줄이 변경되었습니다.",
+    "ja": "PyCharm の現在の行が変更されました。",
+    "zh": "PyCharm 当前行已变化。"
+  },
+  "PyCharm 焦点已变化。": {
+    "en": "Focus in PyCharm has changed.",
+    "fr": "Le focus dans PyCharm a changé.",
+    "de": "Der Fokus in PyCharm hat sich geändert.",
+    "ru": "Фокус в PyCharm изменился.",
+    "ko": "PyCharm의 포커스가 변경되었습니다.",
+    "ja": "PyCharm のフォーカスが変更されました。",
+    "zh": "PyCharm 焦点已变化。"
+  },
+  "PyCharm 需启用 Java Access Bridge 与读屏支持": {
+    "en": "PyCharm requires Java Access Bridge and screen reader support enabled",
+    "fr": "PyCharm nécessite l'activation de Java Access Bridge et du support de lecteur d'écran",
+    "de": "PyCharm erfordert aktivierten Java Access Bridge und Screenreader-Unterstützung",
+    "ru": "PyCharm требует включения Java Access Bridge и поддержки экранного диктора",
+    "ko": "PyCharm에서 Java Access Bridge 및 화면 읽기 프로그램 지원을 활성화해야 합니다",
+    "ja": "PyCharm では Java Access Bridge とスクリーンリーダーサポートを有効にする必要があります",
+    "zh": "PyCharm 需启用 Java Access Bridge 与读屏支持"
+  },
+  "PyCharm 需启用 Java Access Bridge 和读屏支持后重启": {
+    "en": "PyCharm requires Java Access Bridge and screen reader support enabled, then restart",
+    "fr": "PyCharm nécessite l'activation de Java Access Bridge et du support de lecteur d'écran, puis un redémarrage",
+    "de": "PyCharm erfordert aktivierten Java Access Bridge und Screenreader-Unterstützung, dann Neustart",
+    "ru": "PyCharm требует включения Java Access Bridge и поддержки экранного диктора, затем перезапуска",
+    "ko": "PyCharm에서 Java Access Bridge 및 화면 읽기 프로그램 지원을 활성화한 후 다시 시작해야 합니다",
+    "ja": "PyCharm では Java Access Bridge とスクリーンリーダーサポートを有効にしてから再起動が必要です",
+    "zh": "PyCharm 需启用 Java Access Bridge 和读屏支持后重启"
+  },
+  "SpokenFlow · 兼容性检测": {
+    "en": "SpokenFlow · Compatibility check",
+    "fr": "SpokenFlow · Vérification de compatibilité",
+    "de": "SpokenFlow · Kompatibilitätsprüfung",
+    "ru": "SpokenFlow · Проверка совместимости",
+    "ko": "SpokenFlow · 호환성 검사",
+    "ja": "SpokenFlow · 互換性チェック",
+    "zh": "SpokenFlow · 兼容性检测"
+  },
+  "SpokenFlow · 划词译文": {
+    "en": "SpokenFlow · Selection translation",
+    "fr": "SpokenFlow · Traduction de sélection",
+    "de": "SpokenFlow · Auswahlübersetzung",
+    "ru": "SpokenFlow · Перевод выделенного",
+    "ko": "SpokenFlow · 선택 번역",
+    "ja": "SpokenFlow · 選択範囲の翻訳",
+    "zh": "SpokenFlow · 划词译文"
+  },
+  "SpokenFlow · 已暂停": {
+    "en": "SpokenFlow · Paused",
+    "fr": "SpokenFlow · En pause",
+    "de": "SpokenFlow · Pausiert",
+    "ru": "SpokenFlow · Приостановлено",
+    "ko": "SpokenFlow · 일시 중지됨",
+    "ja": "SpokenFlow · 一時停止中",
+    "zh": "SpokenFlow · 已暂停"
+  },
+  "SpokenFlow · 浮窗外观预览（不联网）": {
+    "en": "SpokenFlow · Popup appearance preview (offline)",
+    "fr": "SpokenFlow · Aperçu de l'apparence de la fenêtre (hors ligne)",
+    "de": "SpokenFlow · Vorschau des Fensteraussehens (offline)",
+    "ru": "SpokenFlow · Предпросмотр внешнего вида окна (без сети)",
+    "ko": "SpokenFlow · 팝업 모양 미리보기 (오프라인)",
+    "ja": "SpokenFlow · ポップアップ外観プレビュー（オフライン）",
+    "zh": "SpokenFlow · 浮窗外观预览（不联网）"
+  },
+  "SpokenFlow · 离线演示（固定译文）": {
+    "en": "SpokenFlow · Offline demo (fixed translation)",
+    "fr": "SpokenFlow · Démo hors ligne (traduction fixe)",
+    "de": "SpokenFlow · Offline-Demo (feste Übersetzung)",
+    "ru": "SpokenFlow · Офлайн-демо (фиксированный перевод)",
+    "ko": "SpokenFlow · 오프라인 데모 (고정 번역)",
+    "ja": "SpokenFlow · オフラインデモ（固定翻訳）",
+    "zh": "SpokenFlow · 离线演示（固定译文）"
+  },
+  "SpokenFlow · 练习输入框": {
+    "en": "SpokenFlow · Practice input field",
+    "fr": "SpokenFlow · Champ de saisie d'entraînement",
+    "de": "SpokenFlow · Übungseingabefeld",
+    "ru": "SpokenFlow · Поле ввода для практики",
+    "ko": "SpokenFlow · 연습 입력란",
+    "ja": "SpokenFlow · 練習用入力欄",
+    "zh": "SpokenFlow · 练习输入框"
+  },
+  "SpokenFlow · 翻译已开启": {
+    "en": "SpokenFlow · Translation enabled",
+    "fr": "SpokenFlow · Traduction activée",
+    "de": "SpokenFlow · Übersetzung aktiviert",
+    "ru": "SpokenFlow · Перевод включён",
+    "ko": "SpokenFlow · 번역 켜짐",
+    "ja": "SpokenFlow · 翻訳オン",
+    "zh": "SpokenFlow · 翻译已开启"
+  },
+  "SpokenFlow · 翻译浮窗": {
+    "en": "SpokenFlow · Translation popup",
+    "fr": "SpokenFlow · Fenêtre de traduction",
+    "de": "SpokenFlow · Übersetzungsfenster",
+    "ru": "SpokenFlow · Окно перевода",
+    "ko": "SpokenFlow · 번역 팝업",
+    "ja": "SpokenFlow · 翻訳ポップアップ",
+    "zh": "SpokenFlow · 翻译浮窗"
+  },
+  "SpokenFlow · 随打随译": {
+    "en": "SpokenFlow · Translate as you type",
+    "fr": "SpokenFlow · Traduction au fil de la frappe",
+    "de": "SpokenFlow · Übersetzen beim Tippen",
+    "ru": "SpokenFlow · Перевод по мере ввода",
+    "ko": "SpokenFlow · 입력과 동시에 번역",
+    "ja": "SpokenFlow · 入力しながら翻訳",
+    "zh": "SpokenFlow · 随打随译"
+  },
+  "SpokenFlow 已在运行，请从系统托盘打开。": {
+    "en": "SpokenFlow is already running. Open it from the system tray.",
+    "fr": "SpokenFlow est déjà en cours d'exécution. Ouvrez-le depuis la barre d'état système.",
+    "de": "SpokenFlow läuft bereits. Bitte über das Systemtray öffnen.",
+    "ru": "SpokenFlow уже запущен. Откройте его из системного трея.",
+    "ko": "SpokenFlow가 이미 실행 중입니다. 시스템 트레이에서 여세요.",
+    "ja": "SpokenFlow はすでに実行中です。システムトレイから開いてください。",
+    "zh": "SpokenFlow 已在运行，请从系统托盘打开。"
+  },
+  "SpokenFlow 已暂停，点击展开翻译，拖动移动": {
+    "en": "SpokenFlow paused. Click to expand translation, drag to move",
+    "fr": "SpokenFlow en pause. Cliquez pour développer la traduction, glissez pour déplacer",
+    "de": "SpokenFlow pausiert. Klicken zum Erweitern der Übersetzung, ziehen zum Verschieben",
+    "ru": "SpokenFlow приостановлен. Нажмите, чтобы развернуть перевод, перетащите для перемещения",
+    "ko": "SpokenFlow 일시 중지됨. 클릭하여 번역 펼치기, 드래그하여 이동",
+    "ja": "SpokenFlow 一時停止中。クリックで翻訳を展開、ドラッグで移動",
+    "zh": "SpokenFlow 已暂停，点击展开翻译，拖动移动"
+  },
+  "VS Code 需开启编辑器辅助功能支持": {
+    "en": "VS Code requires editor accessibility support enabled",
+    "fr": "VS Code nécessite l'activation du support d'accessibilité de l'éditeur",
+    "de": "VS Code erfordert aktivierte Editor-Barrierefreiheitsunterstützung",
+    "ru": "VS Code требует включения поддержки специальных возможностей редактора",
+    "ko": "VS Code에서 편집기 접근성 지원을 활성화해야 합니다",
+    "ja": "VS Code ではエディターのアクセシビリティサポートを有効にする必要があります",
+    "zh": "VS Code 需开启编辑器辅助功能支持"
+  },
+  "Word 文档为只读状态": {
+    "en": "Word document is read-only",
+    "fr": "Le document Word est en lecture seule",
+    "de": "Word-Dokument ist schreibgeschützt",
+    "ru": "Документ Word доступен только для чтения",
+    "ko": "Word 문서가 읽기 전용입니다",
+    "ja": "Word 文書は読み取り専用です",
+    "zh": "Word 文档为只读状态"
+  },
+  "不联网 · 读取确认上屏后的文字": {
+    "en": "Offline · Reads text after confirmed commit",
+    "fr": "Hors ligne · Lit le texte après validation de l’engagement",
+    "de": "Offline · Liest Text nach bestätigter Übernahme",
+    "ru": "Без сети · Читает текст после подтверждённого ввода",
+    "ko": "오프라인 · 확정된 텍스트 읽기",
+    "ja": "オフライン · 確定後のテキストを読み取り",
+    "zh": "不联网 · 读取确认上屏后的文字"
+  },
+  "不透明度": {
+    "en": "Opacity",
+    "fr": "Opacité",
+    "de": "Deckkraft",
+    "ru": "Непрозрачность",
+    "ko": "불투명도",
+    "ja": "不透明度",
+    "zh": "不透明度"
+  },
+  "之前的设置无法读取，请重新填写。原配置文件未被修改。": {
+    "en": "Previous settings could not be read. Please fill them in again. The original configuration file was not modified.",
+    "fr": "Les paramètres précédents n’ont pas pu être lus. Veuillez les saisir à nouveau. Le fichier de configuration d’origine n’a pas été modifié.",
+    "de": "Die vorherigen Einstellungen konnten nicht gelesen werden. Bitte erneut eingeben. Die ursprüngliche Konfigurationsdatei wurde nicht verändert.",
+    "ru": "Не удалось прочитать предыдущие настройки. Заполните их заново. Исходный файл конфигурации не изменён.",
+    "ko": "이전 설정을 읽을 수 없습니다. 다시 입력하세요. 원본 구성 파일은 변경되지 않았습니다.",
+    "ja": "以前の設定を読み取れませんでした。もう一度入力してください。元の構成ファイルは変更されていません。",
+    "zh": "之前的设置无法读取，请重新填写。原配置文件未被修改。"
+  },
+  "互译语言": {
+    "en": "Translation languages",
+    "fr": "Langues bidirectionnelles",
+    "de": "Wechselseitige Sprachen",
+    "ru": "Языки перевода",
+    "ko": "상호 번역 언어",
+    "ja": "相互翻訳言語",
+    "zh": "互译语言"
+  },
+  "互译语言一": {
+    "en": "Translation language 1",
+    "fr": "Langue bidirectionnelle 1",
+    "de": "Wechselseitige Sprache 1",
+    "ru": "Язык перевода 1",
+    "ko": "상호 번역 언어 1",
+    "ja": "相互翻訳言語 1",
+    "zh": "互译语言一"
+  },
+  "互译语言二": {
+    "en": "Translation language 2",
+    "fr": "Langue bidirectionnelle 2",
+    "de": "Wechselseitige Sprache 2",
+    "ru": "Язык перевода 2",
+    "ko": "상호 번역 언어 2",
+    "ja": "相互翻訳言語 2",
+    "zh": "互译语言二"
+  },
+  "仅检测兼容性": {
+    "en": "Check compatibility",
+    "fr": "Vérification de compatibilité uniquement",
+    "de": "Nur Kompatibilitätsprüfung",
+    "ru": "Только проверка совместимости",
+    "ko": "호환성 검사만",
+    "ja": "互換性チェックのみ",
+    "zh": "仅检测兼容性"
+  },
+  "保存并关闭": {
+    "en": "Save and Close",
+    "fr": "Enregistrer et fermer",
+    "de": "Speichern und schließen",
+    "ru": "Сохранить и закрыть",
+    "ko": "저장 후 닫기",
+    "ja": "保存して閉じる",
+    "zh": "保存并关闭"
+  },
+  "保存并开启翻译": {
+    "en": "Save and enable",
+    "fr": "Enregistrer et activer la traduction",
+    "de": "Speichern und Übersetzung aktivieren",
+    "ru": "Сохранить и включить перевод",
+    "ko": "저장 후 번역 켜기",
+    "ja": "保存して翻訳を有効化",
+    "zh": "保存并开启翻译"
+  },
+  "保留现有输入法，在所选两种语言之间自然互译": {
+    "en": "Keep the current input method and translate naturally between the two selected languages",
+    "fr": "Conserver la méthode de saisie actuelle et traduire naturellement entre les deux langues sélectionnées",
+    "de": "Aktuelle Eingabemethode beibehalten und natürlich zwischen den beiden ausgewählten Sprachen übersetzen",
+    "ru": "Сохранить текущий метод ввода и естественно переводить между двумя выбранными языками",
+    "ko": "현재 입력기를 유지하고 선택한 두 언어 간에 자연스럽게 번역",
+    "ja": "現在の入力方式を保持し、選択した2言語間で自然に翻訳",
+    "zh": "保留现有输入法，在所选两种语言之间自然互译"
+  },
+  "停笔后自动翻译": {
+    "en": "Auto-translate after typing stops",
+    "fr": "Traduction automatique après arrêt de la saisie",
+    "de": "Automatisch übersetzen, wenn die Eingabe stoppt",
+    "ru": "Автоперевод после остановки ввода",
+    "ko": "입력 중지 후 자동 번역",
+    "ja": "入力停止後に自動翻訳",
+    "zh": "停笔后自动翻译"
+  },
+  "停笔等待（ms）": {
+    "en": "Typing pause (ms)",
+    "fr": "Délai avant traduction (ms)",
+    "de": "Wartezeit vor Übersetzung (ms)",
+    "ru": "Задержка перед переводом (мс)",
+    "ko": "번역 전 대기(ms)",
+    "ja": "翻訳前の待機（ms）",
+    "zh": "停笔等待（ms）"
+  },
+  "公式单元格不自动翻译，避免改动公式": {
+    "en": "Formula cells are not auto-translated to avoid changing formulas",
+    "fr": "Les cellules de formule ne sont pas traduites automatiquement afin d’éviter de modifier les formules",
+    "de": "Formelzellen werden nicht automatisch übersetzt, um Änderungen an Formeln zu vermeiden",
+    "ru": "Ячейки с формулами не переводятся автоматически, чтобы не изменять формулы",
+    "ko": "수식을 변경하지 않도록 수식 셀은 자동 번역하지 않음",
+    "ja": "数式を変更しないよう、数式セルは自動翻訳しません",
+    "zh": "公式单元格不自动翻译，避免改动公式"
+  },
+  "关闭窗口后留在托盘；右键托盘图标可退出。首次使用建议先在练习输入框中验证。": {
+    "en": "After closing the window, it stays in the tray; right-click the tray icon to exit. For first use, verify in the practice input box first.",
+    "fr": "Après fermeture de la fenêtre, l’application reste dans la zone de notification ; cliquez avec le bouton droit sur l’icône pour quitter. Pour une première utilisation, vérifiez d’abord dans le champ de saisie d’entraînement.",
+    "de": "Nach dem Schließen des Fensters bleibt die App im Infobereich; zum Beenden mit der rechten Maustaste auf das Symbol klicken. Bei der ersten Verwendung zuerst im Übungseingabefeld prüfen.",
+    "ru": "После закрытия окна приложение остаётся в трее; чтобы выйти, щёлкните значок правой кнопкой мыши. При первом использовании сначала проверьте в тренировочном поле ввода.",
+    "ko": "창을 닫으면 트레이에 남습니다. 트레이 아이콘을 마우스 오른쪽 버튼으로 클릭하여 종료하세요. 처음 사용 시 연습 입력란에서 먼저 확인하세요.",
+    "ja": "ウィンドウを閉じるとトレイに残ります。終了するにはトレイアイコンを右クリックします。初回使用時は練習入力欄で先に確認してください。",
+    "zh": "关闭窗口后留在托盘；右键托盘图标可退出。首次使用建议先在练习输入框中验证。"
+  },
+  "兼容性检测 · ": {
+    "en": "Compatibility check · ",
+    "fr": "Vérification de compatibilité · ",
+    "de": "Kompatibilitätsprüfung · ",
+    "ru": "Проверка совместимости · ",
+    "ko": "호환성 검사 · ",
+    "ja": "互換性チェック · ",
+    "zh": "兼容性检测 · "
+  },
+  "兼容性检测只验证读取和浮窗定位；真实翻译需 API Key。": {
+    "en": "The compatibility check only verifies reading and floating-window positioning; real translation requires an API Key.",
+    "fr": "La vérification de compatibilité ne valide que la lecture et le positionnement de la fenêtre flottante ; la traduction réelle nécessite une clé API.",
+    "de": "Die Kompatibilitätsprüfung prüft nur das Lesen und die Positionierung des schwebenden Fensters; echte Übersetzung erfordert einen API Key.",
+    "ru": "Проверка совместимости проверяет только чтение и позиционирование плавающего окна; для настоящего перевода требуется API Key.",
+    "ko": "호환성 검사는 읽기와 플로팅 창 위치만 확인합니다. 실제 번역에는 API Key가 필요합니다.",
+    "ja": "互換性チェックは読み取りとフローティングウィンドウの位置のみを確認します。実際の翻訳にはAPI Keyが必要です。",
+    "zh": "兼容性检测只验证读取和浮窗定位；真实翻译需 API Key。"
+  },
+  "兼容性检测已开启，不发送网络请求。": {
+    "en": "Compatibility check is on; no network requests will be sent.",
+    "fr": "La vérification de compatibilité est activée ; aucune requête réseau ne sera envoyée.",
+    "de": "Die Kompatibilitätsprüfung ist aktiviert; es werden keine Netzwerkanfragen gesendet.",
+    "ru": "Проверка совместимости включена; сетевые запросы не отправляются.",
+    "ko": "호환성 검사가 켜져 있으며 네트워크 요청을 보내지 않습니다.",
+    "ja": "互換性チェックが有効です。ネットワークリクエストは送信されません。",
+    "zh": "兼容性检测已开启，不发送网络请求。"
+  },
+  "划词互译": {
+    "en": "Selection translation",
+    "fr": "Traduction bidirectionnelle de la sélection",
+    "de": "Wechselseitige Übersetzung der Auswahl",
+    "ru": "Перевод выделенного текста",
+    "ko": "선택 텍스트 상호 번역",
+    "ja": "選択テキストの相互翻訳",
+    "zh": "划词互译"
+  },
+  "划词互译 · ": {
+    "en": "Selection translation · ",
+    "fr": "Traduction bidirectionnelle de la sélection · ",
+    "de": "Wechselseitige Übersetzung der Auswahl · ",
+    "ru": "Перевод выделенного текста · ",
+    "ko": "선택 텍스트 상호 번역 · ",
+    "ja": "選択テキストの相互翻訳 · ",
+    "zh": "划词互译 · "
+  },
+  "划词互译：关": {
+    "en": "Selection translation: Off",
+    "fr": "Traduction bidirectionnelle de la sélection : désactivée",
+    "de": "Wechselseitige Übersetzung der Auswahl: Aus",
+    "ru": "Перевод выделенного текста: выкл.",
+    "ko": "선택 텍스트 상호 번역: 꺼짐",
+    "ja": "選択テキストの相互翻訳：オフ",
+    "zh": "划词互译：关"
+  },
+  "划词互译：开": {
+    "en": "Selection translation: On",
+    "fr": "Traduction de sélection : activée",
+    "de": "Auswahlübersetzung: An",
+    "ru": "Перевод выделенного: вкл.",
+    "ko": "선택 영역 번역: 켬",
+    "ja": "選択範囲翻訳：オン",
+    "zh": "划词互译：开"
+  },
+  "划词演示 · 不联网": {
+    "en": "Selection demo · Offline",
+    "fr": "Démo de sélection · Hors ligne",
+    "de": "Auswahl-Demo · Offline",
+    "ru": "Демо выделения · Без сети",
+    "ko": "선택 영역 데모 · 오프라인",
+    "ja": "選択範囲デモ · オフライン",
+    "zh": "划词演示 · 不联网"
+  },
+  "划词翻译未完成": {
+    "en": "Selection translation incomplete",
+    "fr": "Traduction de sélection inachevée",
+    "de": "Auswahlübersetzung unvollständig",
+    "ru": "Перевод выделенного не завершён",
+    "ko": "선택 영역 번역 미완료",
+    "ja": "選択範囲翻訳が完了していません",
+    "zh": "划词翻译未完成"
+  },
+  "划词翻译需要可用的模型连接": {
+    "en": "Selection translation requires an available model connection",
+    "fr": "La traduction de sélection nécessite une connexion à un modèle disponible",
+    "de": "Auswahlübersetzung erfordert eine verfügbare Modellverbindung",
+    "ru": "Для перевода выделенного нужно доступное подключение к модели",
+    "ko": "선택 영역 번역에는 사용 가능한 모델 연결이 필요합니다",
+    "ja": "選択範囲翻訳には利用可能なモデル接続が必要です",
+    "zh": "划词翻译需要可用的模型连接"
+  },
+  "划词读取失败时，尝试复制选区并恢复剪贴板": {
+    "en": "If reading the selection fails, copy the selection and restore the clipboard",
+    "fr": "Si la lecture de la sélection échoue, copier la sélection et restaurer le presse-papiers",
+    "de": "Wenn das Lesen der Auswahl fehlschlägt, Auswahl kopieren und Zwischenablage wiederherstellen",
+    "ru": "Если не удаётся прочитать выделение, скопируйте его и восстановите буфер обмена",
+    "ko": "선택 영역 읽기에 실패하면 선택 영역을 복사하고 클립보드를 복원합니다",
+    "ja": "選択範囲の読み取りに失敗したら、選択範囲をコピーしてクリップボードを復元します",
+    "zh": "划词读取失败时，尝试复制选区并恢复剪贴板"
+  },
+  "划词预览 · 不联网": {
+    "en": "Selection preview · Offline",
+    "fr": "Aperçu de sélection · Hors ligne",
+    "de": "Auswahlvorschau · Offline",
+    "ru": "Предпросмотр выделения · Без сети",
+    "ko": "선택 영역 미리보기 · 오프라인",
+    "ja": "選択範囲プレビュー · オフライン",
+    "zh": "划词预览 · 不联网"
+  },
+  "划词：关": {
+    "en": "Select: Off",
+    "fr": "Sélect. : non",
+    "de": "Auswahl: Aus",
+    "ru": "Выдел.: выкл.",
+    "ko": "선택: 꺼짐",
+    "ja": "選択: オフ",
+    "zh": "划词：关"
+  },
+  "划词：开": {
+    "en": "Select: On",
+    "fr": "Sélect. : oui",
+    "de": "Auswahl: Ein",
+    "ru": "Выдел.: вкл.",
+    "ko": "선택: 켜짐",
+    "ja": "選択: オン",
+    "zh": "划词：开"
+  },
+  "原文未修改": {
+    "en": "Source text unchanged",
+    "fr": "Texte source inchangé",
+    "de": "Originaltext unverändert",
+    "ru": "Исходный текст не изменён",
+    "ko": "원문이 수정되지 않았습니다",
+    "ja": "原文は変更されていません",
+    "zh": "原文未修改"
+  },
+  "可读取：": {
+    "en": "Readable: ",
+    "fr": "Lisible :",
+    "de": "Lesbar:",
+    "ru": "Доступно для чтения:",
+    "ko": "읽기 가능:",
+    "ja": "読み取り可能：",
+    "zh": "可读取："
+  },
+  "可选择的译文": {
+    "en": "Selectable translations",
+    "fr": "Traductions sélectionnables",
+    "de": "Auswählbare Übersetzungen",
+    "ru": "Доступные переводы",
+    "ko": "선택 가능한 번역",
+    "ja": "選択可能な翻訳",
+    "zh": "可选择的译文"
+  },
+  "命中本次运行的译文缓存 · 无需重新请求": {
+    "en": "Matched this run's translation cache · No new request needed",
+    "fr": "Correspond au cache de traduction de cette session · Aucune nouvelle requête nécessaire",
+    "de": "Treffer im Übersetzungscache dieses Laufs · Keine erneute Anfrage nötig",
+    "ru": "Совпадение с кэшем переводов текущего запуска · Повторный запрос не нужен",
+    "ko": "이번 실행의 번역 캐시와 일치 · 새 요청 불필요",
+    "ja": "今回の実行の翻訳キャッシュに一致 · 再リクエスト不要",
+    "zh": "命中本次运行的译文缓存 · 无需重新请求"
+  },
+  "墨绿": {
+    "en": "Dark green",
+    "fr": "Vert foncé",
+    "de": "Dunkelgrün",
+    "ru": "Тёмно-зелёный",
+    "ko": "진한 녹색",
+    "ja": "深緑",
+    "zh": "墨绿"
+  },
+  "复制": {
+    "en": "Copy",
+    "fr": "Copier",
+    "de": "Kopieren",
+    "ru": "Копия",
+    "ko": "복사",
+    "ja": "コピー",
+    "zh": "复制"
+  },
+  "复制失败，请重试": {
+    "en": "Copy failed, please retry",
+    "fr": "Échec de la copie, veuillez réessayer",
+    "de": "Kopieren fehlgeschlagen, bitte erneut versuchen",
+    "ru": "Не удалось скопировать, повторите попытку",
+    "ko": "복사 실패, 다시 시도하세요",
+    "ja": "コピーに失敗しました。再試行してください",
+    "zh": "复制失败，请重试"
+  },
+  "外观": {
+    "en": "Style",
+    "fr": "Style",
+    "de": "Stil",
+    "ru": "Вид",
+    "ko": "모양",
+    "ja": "外観",
+    "zh": "外观"
+  },
+  "密码框不读取": {
+    "en": "Don't read password fields",
+    "fr": "Ne pas lire les champs de mot de passe",
+    "de": "Passwortfelder nicht lesen",
+    "ru": "Не читать поля пароля",
+    "ko": "비밀번호 필드는 읽지 않음",
+    "ja": "パスワード欄は読み取らない",
+    "zh": "密码框不读取"
+  },
+  "密钥在本机加密保存。翻译文字会发送到所填服务地址。更换地址后请重新填写对应密钥。": {
+    "en": "Your key is encrypted locally. Text to translate is sent to this service. Enter the matching key after changing the URL.",
+    "fr": "La clé est chiffrée sur cet appareil. Le texte à traduire est envoyé à ce service. Après un changement d’URL, saisissez la clé correspondante.",
+    "de": "Der Schlüssel wird lokal verschlüsselt. Zu übersetzender Text wird an diesen Dienst gesendet. Nach einer URL-Änderung den passenden Schlüssel eingeben.",
+    "ru": "Ключ хранится локально в зашифрованном виде. Текст для перевода отправляется этому сервису. После смены адреса введите его ключ.",
+    "ko": "키는 이 기기에 암호화되어 저장됩니다. 번역할 글은 이 서비스로 전송됩니다. 주소를 바꾸면 해당 서비스의 키를 입력하세요.",
+    "ja": "キーは端末内に暗号化して保存されます。翻訳する文章はこのサービスに送信されます。URL を変更したら、対応するキーを入力してください。",
+    "zh": "密钥在本机加密保存。翻译文字会发送到所填服务地址。更换地址后请重新填写对应密钥。"
+  },
+  "尚未开启，请填写 API Key，或先检测兼容性。": {
+    "en": "Not enabled yet. Enter an API Key, or check compatibility first.",
+    "fr": "Pas encore activé. Saisissez une clé API ou vérifiez d'abord la compatibilité.",
+    "de": "Noch nicht aktiviert. Geben Sie einen API Key ein oder prüfen Sie zuerst die Kompatibilität.",
+    "ru": "Ещё не включено. Введите API Key или сначала проверьте совместимость.",
+    "ko": "아직 활성화되지 않았습니다. API Key를 입력하거나 먼저 호환성을 확인하세요.",
+    "ja": "まだ有効になっていません。API Key を入力するか、先に互換性を確認してください。",
+    "zh": "尚未开启，请填写 API Key，或先检测兼容性。"
+  },
+  "已发送粘贴；Ctrl+Alt+Z 可恢复原文": {
+    "en": "Paste sent; Ctrl+Alt+Z restores the original text",
+    "fr": "Collage envoyé ; Ctrl+Alt+Z restaure le texte d'origine",
+    "de": "Einfügen gesendet; Ctrl+Alt+Z stellt den Originaltext wieder her",
+    "ru": "Вставка отправлена; Ctrl+Alt+Z восстановит исходный текст",
+    "ko": "붙여넣기 전송됨; Ctrl+Alt+Z로 원문을 복원할 수 있습니다",
+    "ja": "貼り付けを送信しました。Ctrl+Alt+Z で原文を復元できます",
+    "zh": "已发送粘贴；Ctrl+Alt+Z 可恢复原文"
+  },
+  "已复制": {
+    "en": "Copied",
+    "fr": "Copié",
+    "de": "Kopiert",
+    "ru": "Скопировано",
+    "ko": "복사됨",
+    "ja": "コピーしました",
+    "zh": "已复制"
+  },
+  "已完成 · 点击复制 · 点击其他位置关闭": {
+    "en": "Completed · Click to copy · Click elsewhere to close",
+    "fr": "Terminé · Cliquez pour copier · Cliquez ailleurs pour fermer",
+    "de": "Abgeschlossen · Klicken zum Kopieren · Klicken Sie woanders, um zu schließen",
+    "ru": "Завершено · Нажмите для копирования · Нажмите в другом месте, чтобы закрыть",
+    "ko": "완료됨 · 클릭하여 복사 · 다른 곳을 클릭하여 닫기",
+    "ja": "完了 · クリックしてコピー · 他の場所をクリックして閉じる",
+    "zh": "已完成 · 点击复制 · 点击其他位置关闭"
+  },
+  "已完成 · 缓存命中 · 点击复制": {
+    "en": "Completed · Cache hit · Click to copy",
+    "fr": "Terminé · Cache trouvé · Cliquez pour copier",
+    "de": "Abgeschlossen · Cache-Treffer · Klicken zum Kopieren",
+    "ru": "Завершено · Кэш найден · Нажмите для копирования",
+    "ko": "완료됨 · 캐시 적중 · 클릭하여 복사",
+    "ja": "完了 · キャッシュヒット · クリックしてコピー",
+    "zh": "已完成 · 缓存命中 · 点击复制"
+  },
+  "已展开 · 正在读取最新输入内容": {
+    "en": "Expanded · Reading latest input",
+    "fr": "Développé · Lecture de la dernière entrée",
+    "de": "Erweitert · Neueste Eingabe wird gelesen",
+    "ru": "Развернуто · Чтение последнего ввода",
+    "ko": "확장됨 · 최신 입력 읽는 중",
+    "ja": "展開済み · 最新の入力を読み取り中",
+    "zh": "已展开 · 正在读取最新输入内容"
+  },
+  "已开启 ": {
+    "en": "Enabled ",
+    "fr": "Activé ",
+    "de": "Aktiviert ",
+    "ru": "Включено ",
+    "ko": "활성화됨 ",
+    "ja": "有効 ",
+    "zh": "已开启 "
+  },
+  "已开启；请切换到其他软件的输入框": {
+    "en": "Enabled; please switch to another app's input field",
+    "fr": "Activé ; veuillez passer au champ de saisie d'une autre application",
+    "de": "Aktiviert; wechseln Sie bitte zum Eingabefeld einer anderen App",
+    "ru": "Включено; переключитесь на поле ввода другого приложения",
+    "ko": "활성화됨; 다른 앱의 입력 필드로 전환하세요",
+    "ja": "有効；他のアプリの入力欄に切り替えてください",
+    "zh": "已开启；请切换到其他软件的输入框"
+  },
+  "已恢复原文": {
+    "en": "Original restored",
+    "fr": "Original restauré",
+    "de": "Original wiederhergestellt",
+    "ru": "Оригинал восстановлен",
+    "ko": "원본 복원됨",
+    "ja": "元に戻しました",
+    "zh": "已恢复原文"
+  },
+  "已暂停": {
+    "en": "Paused",
+    "fr": "En pause",
+    "de": "Pausiert",
+    "ru": "Приостановлено",
+    "ko": "일시 중지됨",
+    "ja": "一時停止中",
+    "zh": "已暂停"
+  },
+  "已替换": {
+    "en": "Replaced ",
+    "fr": "Remplacé",
+    "de": "Ersetzt",
+    "ru": "Заменено",
+    "ko": "교체됨",
+    "ja": "置換済み",
+    "zh": "已替换"
+  },
+  "已替换整段；Ctrl+Alt+Z 可恢复原文": {
+    "en": "Replaced entire segment; Ctrl+Alt+Z to restore original",
+    "fr": "Segment entier remplacé ; Ctrl+Alt+Z pour restaurer l'original",
+    "de": "Ganzer Abschnitt ersetzt; Ctrl+Alt+Z zum Wiederherstellen des Originals",
+    "ru": "Заменен весь сегмент; Ctrl+Alt+Z для восстановления оригинала",
+    "ko": "전체 세그먼트 교체됨; Ctrl+Alt+Z로 원본 복원",
+    "ja": "セグメント全体を置換；Ctrl+Alt+Zで元に戻す",
+    "zh": "已替换整段；Ctrl+Alt+Z 可恢复原文"
+  },
+  "已读取": {
+    "en": "Read ",
+    "fr": "Lu",
+    "de": "Gelesen",
+    "ru": "Прочитано",
+    "ko": "읽음",
+    "ja": "読み取り済み",
+    "zh": "已读取"
+  },
+  "已选中：": {
+    "en": "Selected: ",
+    "fr": "Sélectionné :",
+    "de": "Ausgewählt:",
+    "ru": "Выбрано:",
+    "ko": "선택됨:",
+    "ja": "選択済み：",
+    "zh": "已选中："
+  },
+  "开启 / 暂停": {
+    "en": "Enable / Pause",
+    "fr": "Activer / Pause",
+    "de": "Aktivieren / Pausieren",
+    "ru": "Включить / Пауза",
+    "ko": "활성화 / 일시 중지",
+    "ja": "有効 / 一時停止",
+    "zh": "开启 / 暂停"
+  },
+  "开启后，选中文字会按设置中的两种语言互译": {
+    "en": "When enabled, selected text is translated between the two languages in settings",
+    "fr": "Une fois activé, le texte sélectionné est traduit entre les deux langues des paramètres",
+    "de": "Wenn aktiviert, wird ausgewählter Text zwischen den beiden Sprachen in den Einstellungen übersetzt",
+    "ru": "При включении выделенный текст переводится между двумя языками из настроек",
+    "ko": "활성화하면 선택한 텍스트가 설정의 두 언어 간에 번역됩니다",
+    "ja": "有効にすると、選択したテキストが設定の2言語間で翻訳されます",
+    "zh": "开启后，选中文字会按设置中的两种语言互译"
+  },
+  "开启离线演示": {
+    "en": "Enable offline demo",
+    "fr": "Activer la démo hors ligne",
+    "de": "Offline-Demo aktivieren",
+    "ru": "Включить офлайн-демо",
+    "ko": "오프라인 데모 활성화",
+    "ja": "オフラインデモを有効にする",
+    "zh": "开启离线演示"
+  },
+  "当前互译语言为 ": {
+    "en": "Current translation languages are ",
+    "fr": "Les langues de traduction actuelles sont ",
+    "de": "Aktuelle Übersetzungssprachen sind ",
+    "ru": "Текущие языки перевода: ",
+    "ko": "현재 번역 언어는 ",
+    "ja": "現在の翻訳言語は ",
+    "zh": "当前互译语言为 "
+  },
+  "当前内容没有可翻译的文字。": {
+    "en": "No translatable text in current content.",
+    "fr": "Aucun texte traduisible dans le contenu actuel.",
+    "de": "Kein übersetzbarer Text im aktuellen Inhalt.",
+    "ru": "В текущем содержимом нет текста для перевода.",
+    "ko": "현재 콘텐츠에 번역할 텍스트가 없습니다.",
+    "ja": "現在のコンテンツに翻訳可能なテキストがありません。",
+    "zh": "当前内容没有可翻译的文字。"
+  },
+  "当前区域超过 6000 字，已暂停翻译": {
+    "en": "Current area exceeds 6000 characters, translation paused",
+    "fr": "La zone actuelle dépasse 6000 caractères, traduction en pause",
+    "de": "Aktueller Bereich überschreitet 6000 Zeichen, Übersetzung pausiert",
+    "ru": "Текущая область превышает 6000 символов, перевод приостановлен",
+    "ko": "현재 영역이 6000자를 초과하여 번역이 일시 중지되었습니다",
+    "ja": "現在の領域が6000文字を超えているため、翻訳を一時停止しました",
+    "zh": "当前区域超过 6000 字，已暂停翻译"
+  },
+  "当前文本框": {
+    "en": "Current text box",
+    "fr": "Zone de texte actuelle",
+    "de": "Aktuelles Textfeld",
+    "ru": "Текущее текстовое поле",
+    "ko": "현재 텍스트 상자",
+    "ja": "現在のテキストボックス",
+    "zh": "当前文本框"
+  },
+  "当前段落": {
+    "en": "Current paragraph",
+    "fr": "Paragraphe actuel",
+    "de": "Aktueller Absatz",
+    "ru": "Текущий абзац",
+    "ko": "현재 단락",
+    "ja": "現在の段落",
+    "zh": "当前段落"
+  },
+  "当前段落超过 6000 字": {
+    "en": "Current paragraph exceeds 6000 characters",
+    "fr": "Le paragraphe actuel dépasse 6000 caractères",
+    "de": "Aktueller Absatz überschreitet 6000 Zeichen",
+    "ru": "Текущий абзац превышает 6000 символов",
+    "ko": "현재 단락이 6000자를 초과합니다",
+    "ja": "現在の段落が6000文字を超えています",
+    "zh": "当前段落超过 6000 字"
+  },
+  "当前行": {
+    "en": "Current line",
+    "fr": "Ligne actuelle",
+    "de": "Aktuelle Zeile",
+    "ru": "Текущая строка",
+    "ko": "현재 줄",
+    "ja": "現在の行",
+    "zh": "当前行"
+  },
+  "当前行已变化，取消替换。": {
+    "en": "Current line has changed; replacement canceled.",
+    "fr": "La ligne actuelle a changé ; remplacement annulé.",
+    "de": "Aktuelle Zeile hat sich geändert; Ersetzen abgebrochen.",
+    "ru": "Текущая строка изменилась; замена отменена.",
+    "ko": "현재 줄이 변경되어 바꾸기를 취소했습니다.",
+    "ja": "現在の行が変更されたため、置換をキャンセルしました。",
+    "zh": "当前行已变化，取消替换。"
+  },
+  "当前输入框": {
+    "en": "Current input box",
+    "fr": "Champ de saisie actuel",
+    "de": "Aktuelles Eingabefeld",
+    "ru": "Текущее поле ввода",
+    "ko": "현재 입력란",
+    "ja": "現在の入力欄",
+    "zh": "当前输入框"
+  },
+  "微信未暴露聊天输入框接口；此版本未完成适配": {
+    "en": "WeChat does not expose a chat input interface; not yet adapted in this version",
+    "fr": "WeChat n'expose pas d'interface de saisie de chat ; non adapté dans cette version",
+    "de": "WeChat stellt keine Chat-Eingabeschnittstelle bereit; in dieser Version noch nicht angepasst",
+    "ru": "WeChat не предоставляет интерфейс поля чата; в этой версии не поддержано",
+    "ko": "WeChat이 채팅 입력란 인터페이스를 제공하지 않아 이 버전에서는 아직 지원되지 않습니다",
+    "ja": "WeChatはチャット入力欄のインターフェースを公開していないため、このバージョンでは未対応です",
+    "zh": "微信未暴露聊天输入框接口；此版本未完成适配"
+  },
+  "恢复跟随输入位置": {
+    "en": "Resume following input position",
+    "fr": "Reprendre le suivi de la position de saisie",
+    "de": "Eingabeposition wieder folgen",
+    "ru": "Снова следовать за позицией ввода",
+    "ko": "입력 위치 따라가기 재개",
+    "ja": "入力位置への追従を再開",
+    "zh": "恢复跟随输入位置"
+  },
+  "打开练习输入框": {
+    "en": "Practice",
+    "fr": "Ouvrir le champ de saisie d'entraînement",
+    "de": "Übungs-Eingabefeld öffnen",
+    "ru": "Открыть поле ввода для тренировки",
+    "ko": "연습 입력란 열기",
+    "ja": "練習用入力欄を開く",
+    "zh": "打开练习输入框"
+  },
+  "打开设置": {
+    "en": "Open settings",
+    "fr": "Ouvrir les paramètres",
+    "de": "Einstellungen öffnen",
+    "ru": "Открыть настройки",
+    "ko": "설정 열기",
+    "ja": "設定を開く",
+    "zh": "打开设置"
+  },
+  "拖动标题移动 · 拖动边缘缩放": {
+    "en": "Drag title to move · Drag edge to resize",
+    "fr": "Glisser le titre pour déplacer · Glisser le bord pour redimensionner",
+    "de": "Titel ziehen zum Verschieben · Rand ziehen zum Größe ändern",
+    "ru": "Перетащите заголовок для перемещения · Перетащите край для изменения размера",
+    "ko": "제목을 끌어 이동 · 가장자리를 끌어 크기 조정",
+    "ja": "タイトルをドラッグして移動 · 端をドラッグしてサイズ変更",
+    "zh": "拖动标题移动 · 拖动边缘缩放"
+  },
+  "拖动标题移动浮窗；拖动边缘调整大小": {
+    "en": "Drag title to move window; drag edge to resize",
+    "fr": "Glisser le titre pour déplacer la fenêtre ; glisser le bord pour redimensionner",
+    "de": "Titel ziehen, um das Fenster zu verschieben; Rand ziehen, um die Größe zu ändern",
+    "ru": "Перетащите заголовок, чтобы переместить окно; перетащите край, чтобы изменить размер",
+    "ko": "제목을 끌어 창 이동; 가장자리를 끌어 크기 조정",
+    "ja": "タイトルをドラッグしてウィンドウを移動、端をドラッグしてサイズ変更",
+    "zh": "拖动标题移动浮窗；拖动边缘调整大小"
+  },
+  "收为小图标并暂停翻译请求；点击小图标恢复": {
+    "en": "Collapse to small icon and pause translation requests; click the icon to restore",
+    "fr": "Réduire en petite icône et suspendre les requêtes de traduction ; cliquer sur l'icône pour restaurer",
+    "de": "Zu kleinem Symbol minimieren und Übersetzungsanfragen pausieren; Symbol anklicken zum Wiederherstellen",
+    "ru": "Свернуть в маленький значок и приостановить запросы перевода; нажмите значок для восстановления",
+    "ko": "작은 아이콘으로 접고 번역 요청 일시 중지; 아이콘을 클릭해 복원",
+    "ja": "小さいアイコンに折りたたんで翻訳リクエストを一時停止、アイコンをクリックで復元",
+    "zh": "收为小图标并暂停翻译请求；点击小图标恢复"
+  },
+  "文字已变化，取消替换。": {
+    "en": "Text has changed; replacement canceled.",
+    "fr": "Le texte a changé ; remplacement annulé.",
+    "de": "Text hat sich geändert; Ersetzen abgebrochen.",
+    "ru": "Текст изменился; замена отменена.",
+    "ko": "텍스트가 변경되어 바꾸기를 취소했습니다.",
+    "ja": "テキストが変更されたため、置換をキャンセルしました。",
+    "zh": "文字已变化，取消替换。"
+  },
+  "文档、编辑区域或原文已变化，取消替换。": {
+    "en": "Document, edit area, or source text has changed; replacement canceled.",
+    "fr": "Le document, la zone d'édition ou le texte source a changé ; remplacement annulé.",
+    "de": "Dokument, Bearbeitungsbereich oder Originaltext hat sich geändert; Ersetzen abgebrochen.",
+    "ru": "Документ, область редактирования или исходный текст изменились; замена отменена.",
+    "ko": "문서, 편집 영역 또는 원문이 변경되어 바꾸기를 취소했습니다.",
+    "ja": "ドキュメント、編集領域、または原文が変更されたため、置換をキャンセルしました。",
+    "zh": "文档、编辑区域或原文已变化，取消替换。"
+  },
+  "文档受到保护，请复制译文手动使用。": {
+    "en": "The document is protected; please copy the translation and use it manually.",
+    "fr": "Le document est protégé ; veuillez copier la traduction et l'utiliser manuellement.",
+    "de": "Das Dokument ist geschützt; bitte kopieren Sie die Übersetzung und verwenden Sie sie manuell.",
+    "ru": "Документ защищён; скопируйте перевод и используйте его вручную.",
+    "ko": "문서가 보호되어 있습니다. 번역을 복사해 직접 사용하세요.",
+    "ja": "ドキュメントは保護されています。翻訳をコピーして手動で使用してください。",
+    "zh": "文档受到保护，请复制译文手动使用。"
+  },
+  "文档过长，无法准确定位当前段落": {
+    "en": "Document is too long; cannot accurately locate the current paragraph",
+    "fr": "Document trop long ; impossible de localiser précisément le paragraphe actuel",
+    "de": "Dokument zu lang; aktueller Absatz kann nicht genau gefunden werden",
+    "ru": "Документ слишком длинный; невозможно точно определить текущий абзац",
+    "ko": "문서가 너무 길어 현재 단락을 정확히 찾을 수 없습니다",
+    "ja": "ドキュメントが長すぎるため、現在の段落を正確に特定できません",
+    "zh": "文档过长，无法准确定位当前段落"
+  },
+  "无法准确选中原文，取消替换。": {
+    "en": "Cannot accurately select the source text; replacement canceled.",
+    "fr": "Impossible de sélectionner précisément le texte source ; remplacement annulé.",
+    "de": "Originaltext kann nicht genau ausgewählt werden; Ersetzen abgebrochen.",
+    "ru": "Не удалось точно выделить исходный текст; замена отменена.",
+    "ko": "원문을 정확히 선택할 수 없어 바꾸기를 취소했습니다.",
+    "ja": "原文を正確に選択できないため、置換をキャンセルしました。",
+    "zh": "无法准确选中原文，取消替换。"
+  },
+  "无法准确选中当前行。": {
+    "en": "Cannot accurately select the current line.",
+    "fr": "Impossible de sélectionner précisément la ligne actuelle.",
+    "de": "Aktuelle Zeile kann nicht genau ausgewählt werden.",
+    "ru": "Не удалось точно выделить текущую строку.",
+    "ko": "현재 줄을 정확히 선택할 수 없습니다.",
+    "ja": "現在の行を正確に選択できません。",
+    "zh": "无法准确选中当前行。"
+  },
+  "无法向目标程序粘贴。请确认它没有以管理员权限运行。": {
+    "en": "Cannot paste into the target program. Please make sure it is not running as administrator.",
+    "fr": "Impossible de coller dans le programme cible. Veuillez vérifier qu'il n'est pas exécuté en tant qu'administrateur.",
+    "de": "Einfügen in das Zielprogramm nicht möglich. Bitte stellen Sie sicher, dass es nicht als Administrator ausgeführt wird.",
+    "ru": "Не удалось вставить в целевую программу. Убедитесь, что она не запущена от имени администратора.",
+    "ko": "대상 프로그램에 붙여넣을 수 없습니다. 관리자 권한으로 실행 중이 아닌지 확인하세요.",
+    "ja": "対象プログラムに貼り付けできません。管理者として実行されていないことを確認してください。",
+    "zh": "无法向目标程序粘贴。请确认它没有以管理员权限运行。"
+  },
+  "无法启动划词取消检测，请重启程序后重试。": {
+    "en": "Cannot start text selection cancel detection; please restart the program and try again.",
+    "fr": "Impossible de démarrer la détection d'annulation de sélection ; veuillez redémarrer le programme et réessayer.",
+    "de": "Erkennung zum Abbrechen der Textauswahl kann nicht gestartet werden; bitte starten Sie das Programm neu und versuchen Sie es erneut.",
+    "ru": "Не удалось запустить обнаружение отмены выделения; перезапустите программу и повторите попытку.",
+    "ko": "텍스트 선택 취소 감지를 시작할 수 없습니다. 프로그램을 다시 시작한 후 다시 시도하세요.",
+    "ja": "選択解除の検出を開始できません。プログラムを再起動して再試行してください。",
+    "zh": "无法启动划词取消检测，请重启程序后重试。"
+  },
+  "无法启动划词检测，请重启程序后重试。": {
+    "en": "Cannot start text selection detection; please restart the program and try again.",
+    "fr": "Impossible de démarrer la détection de sélection ; veuillez redémarrer le programme et réessayer.",
+    "de": "Texterkennung kann nicht gestartet werden; bitte starten Sie das Programm neu und versuchen Sie es erneut.",
+    "ru": "Не удалось запустить обнаружение выделения; перезапустите программу и повторите попытку.",
+    "ko": "텍스트 선택 감지를 시작할 수 없습니다. 프로그램을 다시 시작한 후 다시 시도하세요.",
+    "ja": "選択検出を開始できません。プログラムを再起動して再試行してください。",
+    "zh": "无法启动划词检测，请重启程序后重试。"
+  },
+  "无法核对 PyCharm 文本选区。": {
+    "en": "Unable to verify the PyCharm text selection.",
+    "fr": "Impossible de vérifier la sélection de texte PyCharm.",
+    "de": "PyCharm-Textauswahl kann nicht überprüft werden.",
+    "ru": "Не удалось проверить выделенный текст PyCharm.",
+    "ko": "PyCharm 텍스트 선택을 확인할 수 없습니다.",
+    "ja": "PyCharmのテキスト選択を確認できません。",
+    "zh": "无法核对 PyCharm 文本选区。"
+  },
+  "无法核对编辑内容。": {
+    "en": "Unable to verify the edited content.",
+    "fr": "Impossible de vérifier le contenu modifié.",
+    "de": "Bearbeiteter Inhalt kann nicht überprüft werden.",
+    "ru": "Не удалось проверить изменённое содержимое.",
+    "ko": "편집된 내용을 확인할 수 없습니다.",
+    "ja": "編集内容を確認できません。",
+    "zh": "无法核对编辑内容。"
+  },
+  "无法读取此输入框，可能未开放接口或权限不同。": {
+    "en": "Unable to read this input field; the interface may not be exposed or permissions may differ.",
+    "fr": "Impossible de lire ce champ de saisie ; l'interface n'est peut-être pas exposée ou les autorisations diffèrent.",
+    "de": "Dieses Eingabefeld kann nicht gelesen werden; möglicherweise ist die Schnittstelle nicht verfügbar oder die Berechtigungen weichen ab.",
+    "ru": "Не удалось прочитать это поле ввода; возможно, интерфейс не открыт или права различаются.",
+    "ko": "이 입력 필드를 읽을 수 없습니다. 인터페이스가 노출되지 않았거나 권한이 다를 수 있습니다.",
+    "ja": "この入力フィールドを読み取れません。インターフェイスが公開されていないか、権限が異なる可能性があります。",
+    "zh": "无法读取此输入框，可能未开放接口或权限不同。"
+  },
+  "旧译文仅供参考 · 暂不可替换": {
+    "en": "Old translation for reference only · Cannot replace yet",
+    "fr": "Ancienne traduction à titre indicatif · Remplacement impossible pour l'instant",
+    "de": "Alte Übersetzung nur als Referenz · Noch nicht ersetzbar",
+    "ru": "Старый перевод только для справки · Замена пока невозможна",
+    "ko": "이전 번역은 참고용 · 아직 교체할 수 없음",
+    "ja": "古い翻訳は参考用 · まだ置き換えできません",
+    "zh": "旧译文仅供参考 · 暂不可替换"
+  },
+  "暂停翻译": {
+    "en": "Pause translation",
+    "fr": "Suspendre la traduction",
+    "de": "Übersetzung pausieren",
+    "ru": "Приостановить перевод",
+    "ko": "번역 일시중지",
+    "ja": "翻訳を一時停止",
+    "zh": "暂停翻译"
+  },
+  "暂时无法完成翻译": {
+    "en": "Translation temporarily unavailable",
+    "fr": "Traduction temporairement indisponible",
+    "de": "Übersetzung vorübergehend nicht möglich",
+    "ru": "Перевод временно недоступен",
+    "ko": "일시적으로 번역할 수 없습니다",
+    "ja": "一時的に翻訳できません",
+    "zh": "暂时无法完成翻译"
+  },
+  "替换未完成，请检查当前输入框。可以在主窗口复制译文。": {
+    "en": "Replacement incomplete. Please check the current input field. You can copy the translation from the main window.",
+    "fr": "Remplacement incomplet. Veuillez vérifier le champ de saisie actuel. Vous pouvez copier la traduction depuis la fenêtre principale.",
+    "de": "Ersetzung unvollständig. Bitte überprüfen Sie das aktuelle Eingabefeld. Sie können die Übersetzung aus dem Hauptfenster kopieren.",
+    "ru": "Замена не завершена. Проверьте текущее поле ввода. Вы можете скопировать перевод из главного окна.",
+    "ko": "교체가 완료되지 않았습니다. 현재 입력 필드를 확인하세요. 기본 창에서 번역을 복사할 수 있습니다.",
+    "ja": "置き換えが完了していません。現在の入力フィールドを確認してください。メインウィンドウから翻訳をコピーできます。",
+    "zh": "替换未完成，请检查当前输入框。可以在主窗口复制译文。"
+  },
+  "最小化浮窗并暂停翻译": {
+    "en": "Minimize floating window and pause translation",
+    "fr": "Réduire la fenêtre flottante et suspendre la traduction",
+    "de": "Schwebefenster minimieren und Übersetzung pausieren",
+    "ru": "Свернуть плавающее окно и приостановить перевод",
+    "ko": "플로팅 창을 최소화하고 번역 일시중지",
+    "ja": "フローティングウィンドウを最小化して翻訳を一時停止",
+    "zh": "最小化浮窗并暂停翻译"
+  },
+  "服务地址": {
+    "en": "Service URL",
+    "fr": "URL du service",
+    "de": "Dienst-URL",
+    "ru": "Адрес службы",
+    "ko": "서비스 주소",
+    "ja": "サービスURL",
+    "zh": "服务地址"
+  },
+  "服务地址已更改，请填写该服务的密钥并保存。原密钥不会自动发送到新地址。": {
+    "en": "Service URL changed. Please enter the service key and save. The old key will not be sent to the new address automatically.",
+    "fr": "L'URL du service a changé. Veuillez saisir la clé du service et enregistrer. L'ancienne clé ne sera pas envoyée automatiquement à la nouvelle adresse.",
+    "de": "Dienst-URL geändert. Bitte geben Sie den Dienstschlüssel ein und speichern Sie. Der alte Schlüssel wird nicht automatisch an die neue Adresse gesendet.",
+    "ru": "Адрес службы изменён. Введите ключ службы и сохраните. Старый ключ не будет автоматически отправлен на новый адрес.",
+    "ko": "서비스 주소가 변경되었습니다. 해당 서비스의 키를 입력하고 저장하세요. 이전 키는 새 주소로 자동 전송되지 않습니다.",
+    "ja": "サービスURLが変更されました。このサービスのキーを入力して保存してください。古いキーは新しいアドレスに自動送信されません。",
+    "zh": "服务地址已更改，请填写该服务的密钥并保存。原密钥不会自动发送到新地址。"
+  },
+  "服务请求失败，请稍后重试。": {
+    "en": "Service request failed. Please try again later.",
+    "fr": "La requête au service a échoué. Veuillez réessayer plus tard.",
+    "de": "Dienstanfrage fehlgeschlagen. Bitte versuchen Sie es später erneut.",
+    "ru": "Запрос к службе не удался. Повторите попытку позже.",
+    "ko": "서비스 요청에 실패했습니다. 나중에 다시 시도하세요.",
+    "ja": "サービスリクエストに失敗しました。後でもう一度お試しください。",
+    "zh": "服务请求失败，请稍后重试。"
+  },
+  "服务账户余额不足。": {
+    "en": "Insufficient service account balance.",
+    "fr": "Solde du compte de service insuffisant.",
+    "de": "Guthaben des Dienstkontos reicht nicht aus.",
+    "ru": "Недостаточно средств на счёте службы.",
+    "ko": "서비스 계정 잔액이 부족합니다.",
+    "ja": "サービスアカウントの残高が不足しています。",
+    "zh": "服务账户余额不足。"
+  },
+  "未发送翻译请求 · 点击其他位置关闭": {
+    "en": "Translation request not sent · Click elsewhere to close",
+    "fr": "Demande de traduction non envoyée · Cliquez ailleurs pour fermer",
+    "de": "Übersetzungsanfrage nicht gesendet · Zum Schließen woanders klicken",
+    "ru": "Запрос на перевод не отправлен · Нажмите в другом месте, чтобы закрыть",
+    "ko": "번역 요청이 전송되지 않음 · 다른 곳을 클릭하여 닫기",
+    "ja": "翻訳リクエスト未送信 · 別の場所をクリックして閉じる",
+    "zh": "未发送翻译请求 · 点击其他位置关闭"
+  },
+  "未取得选中文字": {
+    "en": "No selected text obtained",
+    "fr": "Aucun texte sélectionné obtenu",
+    "de": "Kein ausgewählter Text erhalten",
+    "ru": "Выделенный текст не получен",
+    "ko": "선택한 텍스트를 가져오지 못했습니다",
+    "ja": "選択テキストを取得できませんでした",
+    "zh": "未取得选中文字"
+  },
+  "模型": {
+    "en": "Model",
+    "fr": "Modèle",
+    "de": "Modell",
+    "ru": "Модель",
+    "ko": "모델",
+    "ja": "モデル",
+    "zh": "模型"
+  },
+  "模型名称": {
+    "en": "Model name",
+    "fr": "Nom du modèle",
+    "de": "Modellname",
+    "ru": "Название модели",
+    "ko": "모델 이름",
+    "ja": "モデル名",
+    "zh": "模型名称"
+  },
+  "模型返回错误，请重试。": {
+    "en": "Model returned an error. Please retry.",
+    "fr": "Le modèle a renvoyé une erreur. Veuillez réessayer.",
+    "de": "Modell hat einen Fehler zurückgegeben. Bitte erneut versuchen.",
+    "ru": "Модель вернула ошибку. Повторите попытку.",
+    "ko": "모델에서 오류가 반환되었습니다. 다시 시도하세요.",
+    "ja": "モデルがエラーを返しました。再試行してください。",
+    "zh": "模型返回错误，请重试。"
+  },
+  "正在生成 · 点击其他位置关闭": {
+    "en": "Generating · Click elsewhere to close",
+    "fr": "Génération en cours · Cliquez ailleurs pour fermer",
+    "de": "Wird generiert · Zum Schließen woanders klicken",
+    "ru": "Генерация · Нажмите в другом месте, чтобы закрыть",
+    "ko": "생성 중 · 다른 곳을 클릭하여 닫기",
+    "ja": "生成中 · 別の場所をクリックして閉じる",
+    "zh": "正在生成 · 点击其他位置关闭"
+  },
+  "正在用固定示例测试 API，不读取其他输入框。": {
+    "en": "Testing the API with a fixed example; other input fields are not read.",
+    "fr": "Test de l'API avec un exemple fixe ; les autres champs de saisie ne sont pas lus.",
+    "de": "API wird mit einem festen Beispiel getestet; andere Eingabefelder werden nicht gelesen.",
+    "ru": "Тестирование API с фиксированным примером; другие поля ввода не читаются.",
+    "ko": "고정 예제로 API를 테스트 중이며 다른 입력 필드는 읽지 않습니다.",
+    "ja": "固定サンプルでAPIをテスト中です。他の入力フィールドは読み取りません。",
+    "zh": "正在用固定示例测试 API，不读取其他输入框。"
+  },
+  "正在翻译 · ": {
+    "en": "Translating · ",
+    "fr": "Traduction en cours · ",
+    "de": "Übersetzung läuft · ",
+    "ru": "Перевод · ",
+    "ko": "번역 중 · ",
+    "ja": "翻訳中 · ",
+    "zh": "正在翻译 · "
+  },
+  "正在翻译 · 更新中": {
+    "en": "Translating · Updating",
+    "fr": "Traduction · Mise à jour",
+    "de": "Übersetzung · Aktualisierung",
+    "ru": "Перевод · Обновление",
+    "ko": "번역 중 · 업데이트 중",
+    "ja": "翻訳中 · 更新中",
+    "zh": "正在翻译 · 更新中"
+  },
+  "正在翻译选中文字…": {
+    "en": "Translating selected text…",
+    "fr": "Traduction du texte sélectionné…",
+    "de": "Ausgewählter Text wird übersetzt…",
+    "ru": "Перевод выделенного текста…",
+    "ko": "선택한 텍스트 번역 중…",
+    "ja": "選択したテキストを翻訳中…",
+    "zh": "正在翻译选中文字…"
+  },
+  "正在读取最新内容": {
+    "en": "Reading latest content",
+    "fr": "Lecture du contenu le plus récent",
+    "de": "Neuesten Inhalt wird gelesen",
+    "ru": "Чтение последнего содержимого",
+    "ko": "최신 내용 읽는 중",
+    "ja": "最新の内容を読み取り中",
+    "zh": "正在读取最新内容"
+  },
+  "正在输入 · 等待文字上屏": {
+    "en": "Typing · Waiting for text to commit",
+    "fr": "Saisie · En attente de validation du texte",
+    "de": "Eingabe · Warten auf Textübernahme",
+    "ru": "Ввод · Ожидание фиксации текста",
+    "ko": "입력 중 · 텍스트 확정 대기",
+    "ja": "入力中 · テキスト確定待ち",
+    "zh": "正在输入 · 等待文字上屏"
+  },
+  "正在选词，等待文字上屏": {
+    "en": "Selecting text · Waiting for text to commit",
+    "fr": "Sélection · En attente de validation du texte",
+    "de": "Textauswahl · Warten auf Textübernahme",
+    "ru": "Выбор текста · Ожидание фиксации текста",
+    "ko": "텍스트 선택 중 · 텍스트 확정 대기",
+    "ja": "テキスト選択中 · テキスト確定待ち",
+    "zh": "正在选词，等待文字上屏"
+  },
+  "此浏览器组合框没有可写文本值，已跳过": {
+    "en": "This browser combo box has no writable text value; skipped",
+    "fr": "Cette liste déroulante du navigateur n'a pas de valeur texte modifiable ; ignorée",
+    "de": "Dieses Browser-Kombinationsfeld hat keinen beschreibbaren Textwert; übersprungen",
+    "ru": "У этого поля со списком браузера нет доступного для записи текстового значения; пропущено",
+    "ko": "이 브라우저 콤보 상자에는 쓸 수 있는 텍스트 값이 없어 건너뜀",
+    "ja": "このブラウザのコンボボックスには書き込み可能なテキスト値がないため、スキップしました",
+    "zh": "此浏览器组合框没有可写文本值，已跳过"
+  },
+  "此编辑区域未提供可准确定位的文本接口": {
+    "en": "This editing area does not provide a text interface for accurate positioning",
+    "fr": "Cette zone d'édition ne fournit pas d'interface texte pour un positionnement précis",
+    "de": "Dieser Bearbeitungsbereich bietet keine Textschnittstelle für genaue Positionierung",
+    "ru": "Эта область редактирования не предоставляет текстовый интерфейс для точного позиционирования",
+    "ko": "이 편집 영역은 정확한 위치 지정을 위한 텍스트 인터페이스를 제공하지 않음",
+    "ja": "この編集領域には正確な位置指定のためのテキストインターフェースがありません",
+    "zh": "此编辑区域未提供可准确定位的文本接口"
+  },
+  "此输入框不支持替换。": {
+    "en": "This input field does not support replacement.",
+    "fr": "Ce champ de saisie ne prend pas en charge le remplacement.",
+    "de": "Dieses Eingabefeld unterstützt kein Ersetzen.",
+    "ru": "Это поле ввода не поддерживает замену.",
+    "ko": "이 입력란은 바꾸기를 지원하지 않습니다.",
+    "ja": "この入力欄は置換に対応していません。",
+    "zh": "此输入框不支持替换。"
+  },
+  "此预览不调用 API。可拖动标题/边缘、调整外观、开启划词后选中译文。": {
+    "en": "This preview does not call the API. Drag the title/edges, adjust the appearance, enable text selection, then select the translated text.",
+    "fr": "Cet aperçu n'appelle pas l'API. Faites glisser le titre/les bords, ajustez l'apparence, activez la sélection de texte, puis sélectionnez le texte traduit.",
+    "de": "Diese Vorschau ruft die API nicht auf. Ziehen Sie Titel/Ränder, passen Sie das Erscheinungsbild an, aktivieren Sie die Textauswahl und wählen Sie dann den übersetzten Text aus.",
+    "ru": "Этот предпросмотр не вызывает API. Перетащите заголовок/края, настройте внешний вид, включите выделение текста, затем выделите переведённый текст.",
+    "ko": "이 미리보기는 API를 호출하지 않습니다. 제목/가장자리를 끌어 이동하고, 모양을 조정하고, 텍스트 선택을 켠 후 번역된 텍스트를 선택하세요.",
+    "ja": "このプレビューは API を呼び出しません。タイトル/端をドラッグし、外観を調整し、テキスト選択を有効にしてから、翻訳済みテキストを選択してください。",
+    "zh": "此预览不调用 API。可拖动标题/边缘、调整外观、开启划词后选中译文。"
+  },
+  "没有可恢复的替换记录。": {
+    "en": "No replacement records to restore.",
+    "fr": "Aucun enregistrement de remplacement à restaurer.",
+    "de": "Keine Ersetzungsdatensätze zum Wiederherstellen.",
+    "ru": "Нет записей замены для восстановления.",
+    "ko": "복원할 바꾸기 기록이 없습니다.",
+    "ja": "復元できる置換記録はありません。",
+    "zh": "没有可恢复的替换记录。"
+  },
+  "浅色": {
+    "en": "Light",
+    "fr": "Clair",
+    "de": "Hell",
+    "ru": "Светлая",
+    "ko": "라이트",
+    "ja": "ライト",
+    "zh": "浅色"
+  },
+  "测试 API": {
+    "en": "Test API",
+    "fr": "Tester l'API",
+    "de": "API testen",
+    "ru": "Тест API",
+    "ko": "API 테스트",
+    "ja": "API をテスト",
+    "zh": "测试 API"
+  },
+  "浮窗不透明度": {
+    "en": "Popup opacity",
+    "fr": "Opacité de la fenêtre",
+    "de": "Overlay-Deckkraft",
+    "ru": "Непрозрачность окна",
+    "ko": "오버레이 불투명도",
+    "ja": "オーバーレイの不透明度",
+    "zh": "浮窗不透明度"
+  },
+  "浮窗保持显示 · 暂不可替换": {
+    "en": "Overlay kept visible · Replacement unavailable",
+    "fr": "Fenêtre maintenue visible · Remplacement indisponible",
+    "de": "Overlay sichtbar · Ersetzen nicht verfügbar",
+    "ru": "Окно остаётся видимым · Замена недоступна",
+    "ko": "오버레이 표시 유지 · 바꾸기 사용 불가",
+    "ja": "オーバーレイ表示中 · 置換不可",
+    "zh": "浮窗保持显示 · 暂不可替换"
+  },
+  "浮窗外观": {
+    "en": "Popup appearance",
+    "fr": "Apparence de la fenêtre",
+    "de": "Overlay-Erscheinungsbild",
+    "ru": "Внешний вид окна",
+    "ko": "오버레이 모양",
+    "ja": "オーバーレイの外観",
+    "zh": "浮窗外观"
+  },
+  "浮窗已最小化 · 翻译请求已暂停 · 点击小图标恢复": {
+    "en": "Overlay minimized · Translation requests paused · Click the small icon to restore",
+    "fr": "Fenêtre réduite · Requêtes de traduction en pause · Cliquez sur la petite icône pour restaurer",
+    "de": "Overlay minimiert · Übersetzungsanfragen pausiert · Zum Wiederherstellen auf das kleine Symbol klicken",
+    "ru": "Окно свёрнуто · Запросы перевода приостановлены · Нажмите на маленький значок для восстановления",
+    "ko": "오버레이 최소화됨 · 번역 요청 일시 중지됨 · 작은 아이콘을 클릭해 복원",
+    "ja": "オーバーレイ最小化 · 翻訳リクエスト一時停止 · 小さいアイコンをクリックして復元",
+    "zh": "浮窗已最小化 · 翻译请求已暂停 · 点击小图标恢复"
+  },
+  "浮窗预览 · 不联网": {
+    "en": "Overlay preview · Offline",
+    "fr": "Aperçu de la fenêtre · Hors ligne",
+    "de": "Overlay-Vorschau · Offline",
+    "ru": "Предпросмотр окна · Без сети",
+    "ko": "오버레이 미리보기 · 오프라인",
+    "ja": "オーバーレイプレビュー · オフライン",
+    "zh": "浮窗预览 · 不联网"
+  },
+  "深蓝": {
+    "en": "Dark blue",
+    "fr": "Bleu foncé",
+    "de": "Dunkelblau",
+    "ru": "Тёмно-синяя",
+    "ko": "다크 블루",
+    "ja": "ダークブルー",
+    "zh": "深蓝"
+  },
+  "演示文稿为只读状态。": {
+    "en": "The presentation is read-only.",
+    "fr": "La présentation est en lecture seule.",
+    "de": "Die Präsentation ist schreibgeschützt.",
+    "ru": "Презентация доступна только для чтения.",
+    "ko": "프레젠테이션이 읽기 전용 상태입니다.",
+    "ja": "プレゼンテーションは読み取り専用です。",
+    "zh": "演示文稿为只读状态。"
+  },
+  "焦点已改变，取消替换。": {
+    "en": "Focus changed; replacement cancelled.",
+    "fr": "Le focus a changé ; remplacement annulé.",
+    "de": "Fokus geändert; Ersetzen abgebrochen.",
+    "ru": "Фокус изменился; замена отменена.",
+    "ko": "포커스가 변경되어 바꾸기를 취소했습니다.",
+    "ja": "フォーカスが変わったため、置換をキャンセルしました。",
+    "zh": "焦点已改变，取消替换。"
+  },
+  "生成中 · 暂不可替换": {
+    "en": "Generating · Cannot replace yet",
+    "fr": "Génération · Remplacement impossible pour l'instant",
+    "de": "Wird generiert · Ersetzen noch nicht möglich",
+    "ru": "Генерация · Замена пока невозможна",
+    "ko": "생성 중 · 아직 대체할 수 없음",
+    "ja": "生成中 · まだ置き換えできません",
+    "zh": "生成中 · 暂不可替换"
+  },
+  "生成中 · 点击其他位置关闭": {
+    "en": "Generating · Click elsewhere to close",
+    "fr": "Génération · Cliquez ailleurs pour fermer",
+    "de": "Wird generiert · Zum Schließen elsewhere klicken",
+    "ru": "Генерация · Нажмите в другом месте, чтобы закрыть",
+    "ko": "생성 중 · 다른 곳을 클릭하여 닫기",
+    "ja": "生成中 · 他の場所をクリックして閉じる",
+    "zh": "生成中 · 点击其他位置关闭"
+  },
+  "界面语言": {
+    "en": "Interface language",
+    "fr": "Langue de l'interface",
+    "de": "Oberflächensprache",
+    "ru": "Язык интерфейса",
+    "ko": "인터페이스 언어",
+    "ja": "インターフェース言語",
+    "zh": "界面语言"
+  },
+  "界面语言已更新。点击开启继续翻译。": {
+    "en": "Interface language updated. Click to enable and continue translating.",
+    "fr": "Langue de l'interface mise à jour. Cliquez pour activer et continuer la traduction.",
+    "de": "Oberflächensprache aktualisiert. Klicken Sie zum Aktivieren und Fortsetzen der Übersetzung.",
+    "ru": "Язык интерфейса обновлён. Нажмите, чтобы включить и продолжить перевод.",
+    "ko": "인터페이스 언어가 업데이트되었습니다. 클릭하여 번역을 계속하려면 활성화하세요.",
+    "ja": "インターフェース言語が更新されました。クリックして有効にし、翻訳を続行します。",
+    "zh": "界面语言已更新。点击开启继续翻译。"
+  },
+  "目标程序暂时无响应": {
+    "en": "Target program not responding",
+    "fr": "Programme cible ne répond pas",
+    "de": "Zielprogramm reagiert nicht",
+    "ru": "Целевая программа не отвечает",
+    "ko": "대상 프로그램이 응답하지 않음",
+    "ja": "対象プログラムが応答しません",
+    "zh": "目标程序暂时无响应"
+  },
+  "真实模式按所选语言互译 · 点击复制": {
+    "en": "Real mode translates between selected languages · Click to copy",
+    "fr": "Mode réel traduit entre les langues sélectionnées · Cliquez pour copier",
+    "de": "Echtmodus übersetzt zwischen ausgewählten Sprachen · Zum Kopieren klicken",
+    "ru": "Реальный режим переводит между выбранными языками · Нажмите, чтобы скопировать",
+    "ko": "실제 모드에서 선택한 언어 간 번역 · 클릭하여 복사",
+    "ja": "リアルモードは選択した言語間で翻訳 · クリックしてコピー",
+    "zh": "真实模式按所选语言互译 · 点击复制"
+  },
+  "真实运行时按所选语言互译 · 可复制": {
+    "en": "Real runtime translates between selected languages · Copyable",
+    "fr": "Exécution réelle traduit entre les langues sélectionnées · Copiable",
+    "de": "Echtzeit-Laufzeit übersetzt zwischen ausgewählten Sprachen · Kopierbar",
+    "ru": "Реальный режим работы переводит между выбранными языками · Можно скопировать",
+    "ko": "실제 런타임에서 선택한 언어 간 번역 · 복사 가능",
+    "ja": "リアル実行時は選択した言語間で翻訳 · コピー可能",
+    "zh": "真实运行时按所选语言互译 · 可复制"
+  },
+  "短文本": {
+    "en": "Short text",
+    "fr": "Texte court",
+    "de": "Kurzer Text",
+    "ru": "Короткий текст",
+    "ko": "짧은 텍스트",
+    "ja": "短いテキスト",
+    "zh": "短文本"
+  },
+  "石墨": {
+    "en": "Graphite",
+    "fr": "Graphite",
+    "de": "Graphit",
+    "ru": "Графит",
+    "ko": "흑연",
+    "ja": "グラファイト",
+    "zh": "石墨"
+  },
+  "离线固定译文演示；以上生成过程不代表 DeepSeek 的速度或质量。": {
+    "en": "Offline fixed translation demo; the above generation process does not represent DeepSeek's speed or quality.",
+    "fr": "Démo hors ligne de traduction fixe ; le processus de génération ci-dessus ne représente pas la vitesse ou la qualité de DeepSeek.",
+    "de": "Offline-Demo mit fester Übersetzung; der obige Generierungsprozess repräsentiert nicht die Geschwindigkeit oder Qualität von DeepSeek.",
+    "ru": "Офлайн-демонстрация с фиксированным переводом; вышеуказанный процесс генерации не отражает скорость или качество DeepSeek.",
+    "ko": "오프라인 고정 번역 데모; 위 생성 과정은 DeepSeek의 속도나 품질을 나타내지 않습니다.",
+    "ja": "オフライン固定翻訳デモ。上記の生成プロセスは DeepSeek の速度や品質を表すものではありません。",
+    "zh": "离线固定译文演示；以上生成过程不代表 DeepSeek 的速度或质量。"
+  },
+  "离线演示 · 固定译文": {
+    "en": "Offline demo · Fixed translation",
+    "fr": "Démo hors ligne · Traduction fixe",
+    "de": "Offline-Demo · Feste Übersetzung",
+    "ru": "Офлайн-демо · Фиксированный перевод",
+    "ko": "오프라인 데모 · 고정 번역",
+    "ja": "オフラインデモ · 固定翻訳",
+    "zh": "离线演示 · 固定译文"
+  },
+  "离线演示不调用 API。请正常启动程序进行真实 API 测试。": {
+    "en": "Offline demo does not call the API. Please start the program normally for real API testing.",
+    "fr": "La démo hors ligne n'appelle pas l'API. Veuillez démarrer le programme normalement pour tester l'API réelle.",
+    "de": "Offline-Demo ruft die API nicht auf. Bitte starten Sie das Programm normal, um echte API-Tests durchzuführen.",
+    "ru": "Офлайн-демонстрация не вызывает API. Пожалуйста, запустите программу обычным образом для реального тестирования API.",
+    "ko": "오프라인 데모는 API를 호출하지 않습니다. 실제 API 테스트를 위해 프로그램을 정상적으로 실행하세요.",
+    "ja": "オフラインデモは API を呼び出しません。実際の API テストにはプログラムを正常に起動してください。",
+    "zh": "离线演示不调用 API。请正常启动程序进行真实 API 测试。"
+  },
+  "离线演示仅处理固定例句：": {
+    "en": "Offline demo only processes fixed example sentences:",
+    "fr": "La démo hors ligne ne traite que des phrases d'exemple fixes :",
+    "de": "Offline-Demo verarbeitet nur feste Beispielsätze:",
+    "ru": "Офлайн-демонстрация обрабатывает только фиксированные примеры предложений:",
+    "ko": "오프라인 데모는 고정된 예문만 처리합니다:",
+    "ja": "オフラインデモは固定の例文のみを処理します：",
+    "zh": "离线演示仅处理固定例句："
+  },
+  "离线演示只处理固定测试例句，不调用 API。": {
+    "en": "Offline demo only processes fixed test example sentences and does not call the API.",
+    "fr": "La démo hors ligne ne traite que des phrases d'exemple de test fixes et n'appelle pas l'API.",
+    "de": "Offline-Demo verarbeitet nur feste Testbeispielsätze und ruft die API nicht auf.",
+    "ru": "Офлайн-демонстрация обрабатывает только фиксированные тестовые примеры предложений и не вызывает API.",
+    "ko": "오프라인 데모는 고정된 테스트 예문만 처리하며 API를 호출하지 않습니다.",
+    "ja": "オフラインデモは固定のテスト用例文のみを処理し、API を呼び出しません。",
+    "zh": "离线演示只处理固定测试例句，不调用 API。"
+  },
+  "等待 PyCharm 的可编辑文本": {
+    "en": "Waiting for editable text in PyCharm",
+    "fr": "En attente de texte éditable dans PyCharm",
+    "de": "Warten auf bearbeitbaren Text in PyCharm",
+    "ru": "Ожидание редактируемого текста в PyCharm",
+    "ko": "PyCharm에서 편집 가능한 텍스트를 기다리는 중",
+    "ja": "PyCharm で編集可能なテキストを待機中",
+    "zh": "等待 PyCharm 的可编辑文本"
+  },
+  "等待可读取的输入框": {
+    "en": "Waiting for readable input field",
+    "fr": "En attente d'un champ de saisie lisible",
+    "de": "Warten auf lesbares Eingabefeld",
+    "ru": "Ожидание читаемого поля ввода",
+    "ko": "읽을 수 있는 입력 필드를 기다리는 중",
+    "ja": "読み取り可能な入力フィールドを待機中",
+    "zh": "等待可读取的输入框"
+  },
+  "等待翻译…": {
+    "en": "Waiting for translation…",
+    "fr": "En attente de la traduction…",
+    "de": "Warten auf Übersetzung…",
+    "ru": "Ожидание перевода…",
+    "ko": "번역 대기 중…",
+    "ja": "翻訳を待機中…",
+    "zh": "等待翻译…"
+  },
+  "等待读取最新输入内容…": {
+    "en": "Waiting to read the latest input content…",
+    "fr": "En attente de lecture du dernier contenu saisi…",
+    "de": "Warten auf das Lesen des neuesten Eingabeinhalts…",
+    "ru": "Ожидание чтения последнего введённого содержимого…",
+    "ko": "최신 입력 내용을 읽기를 기다리는 중…",
+    "ja": "最新の入力内容を読み取るのを待機中…",
+    "zh": "等待读取最新输入内容…"
+  },
+  "练习输入框": {
+    "en": "Practice input field",
+    "fr": "Champ de saisie d'entraînement",
+    "de": "Übungseingabefeld",
+    "ru": "Поле ввода для практики",
+    "ko": "연습 입력 필드",
+    "ja": "練習入力フィールド",
+    "zh": "练习输入框"
+  },
+  "编辑中的单元格": {
+    "en": "Cell being edited",
+    "fr": "Cellule en cours d'édition",
+    "de": "Zelle wird bearbeitet",
+    "ru": "Редактируемая ячейка",
+    "ko": "편집 중인 셀",
+    "ja": "編集中のセル",
+    "zh": "编辑中的单元格"
+  },
+  "网络连接失败或响应中断；请检查网络，Ctrl+Alt+R 重试。": {
+    "en": "Network connection failed or response interrupted; check your network and press Ctrl+Alt+R to retry.",
+    "fr": "Échec de la connexion réseau ou réponse interrompue ; vérifiez le réseau, Ctrl+Alt+R pour réessayer.",
+    "de": "Netzwerkverbindung fehlgeschlagen oder Antwort unterbrochen; prüfen Sie das Netzwerk, Ctrl+Alt+R zum Wiederholen.",
+    "ru": "Сбой сетевого подключения или прерван ответ; проверьте сеть, Ctrl+Alt+R для повтора.",
+    "ko": "네트워크 연결 실패 또는 응답 중단; 네트워크를 확인하고 Ctrl+Alt+R로 재시도하세요.",
+    "ja": "ネットワーク接続に失敗したか応答が中断されました。ネットワークを確認し、Ctrl+Alt+R で再試行してください。",
+    "zh": "网络连接失败或响应中断；请检查网络，Ctrl+Alt+R 重试。"
+  },
+  "翻译已暂停 · 点击展开并翻译最新内容 · 可拖动": {
+    "en": "Translation paused · Click to expand and translate the latest content · Draggable",
+    "fr": "Traduction en pause · Cliquez pour développer et traduire le contenu récent · Déplaçable",
+    "de": "Übersetzung pausiert · Klicken zum Aufklappen und Übersetzen des neuesten Inhalts · Verschiebbar",
+    "ru": "Перевод приостановлен · Нажмите, чтобы развернуть и перевести последнее содержимое · Перетаскивается",
+    "ko": "번역 일시 중지됨 · 클릭하여 최신 내용 펼치기 및 번역 · 드래그 가능",
+    "ja": "翻訳一時停止中 · クリックで最新内容を展開して翻訳 · ドラッグ可能",
+    "zh": "翻译已暂停 · 点击展开并翻译最新内容 · 可拖动"
+  },
+  "翻译连接中断或译文为空，请重试。未完成的译文不能替换。": {
+    "en": "Translation connection interrupted or translation empty; please retry. Incomplete translations cannot be replaced.",
+    "fr": "Connexion de traduction interrompue ou traduction vide ; veuillez réessayer. Une traduction incomplète ne peut pas être remplacée.",
+    "de": "Übersetzungsverbindung unterbrochen oder Übersetzung leer; bitte erneut versuchen. Unvollständige Übersetzungen können nicht ersetzt werden.",
+    "ru": "Соединение перевода прервано или перевод пуст; повторите попытку. Незавершённый перевод нельзя заменить.",
+    "ko": "번역 연결이 끊겼거나 번역이 비어 있습니다. 다시 시도하세요. 미완성 번역은 바꿀 수 없습니다.",
+    "ja": "翻訳接続が中断されたか訳文が空です。再試行してください。未完了の訳文は置き換えられません。",
+    "zh": "翻译连接中断或译文为空，请重试。未完成的译文不能替换。"
+  },
+  "背景颜色（文字颜色自动匹配）": {
+    "en": "Background color (text color auto-matched)",
+    "fr": "Couleur d'arrière-plan (couleur du texte assortie automatiquement)",
+    "de": "Hintergrundfarbe (Textfarbe wird automatisch angepasst)",
+    "ru": "Цвет фона (цвет текста подбирается автоматически)",
+    "ko": "배경색 (글자색 자동 매칭)",
+    "ja": "背景色（文字色は自動調整）",
+    "zh": "背景颜色（文字颜色自动匹配）"
+  },
+  "自定义颜色…": {
+    "en": "Custom color…",
+    "fr": "Couleur personnalisée…",
+    "de": "Benutzerdefinierte Farbe…",
+    "ru": "Другой цвет…",
+    "ko": "사용자 지정 색…",
+    "ja": "カスタムカラー…",
+    "zh": "自定义颜色…"
+  },
+  "设置保存失败，请检查本机配置目录权限。": {
+    "en": "Failed to save settings; check permissions of the local configuration directory.",
+    "fr": "Échec de l'enregistrement des paramètres ; vérifiez les permissions du répertoire de configuration local.",
+    "de": "Einstellungen konnten nicht gespeichert werden; prüfen Sie die Berechtigungen des lokalen Konfigurationsverzeichnisses.",
+    "ru": "Не удалось сохранить настройки; проверьте права доступа к локальному каталогу конфигурации.",
+    "ko": "설정 저장 실패. 로컬 구성 디렉터리 권한을 확인하세요.",
+    "ja": "設定を保存できませんでした。ローカル設定ディレクトリの権限を確認してください。",
+    "zh": "设置保存失败，请检查本机配置目录权限。"
+  },
+  "译文已完成 · ": {
+    "en": "Translation complete · ",
+    "fr": "Traduction terminée · ",
+    "de": "Übersetzung abgeschlossen · ",
+    "ru": "Перевод завершён · ",
+    "ko": "번역 완료 · ",
+    "ja": "翻訳完了 · ",
+    "zh": "译文已完成 · "
+  },
+  "译文未完整生成（": {
+    "en": "Translation incomplete (",
+    "fr": "Traduction incomplète (",
+    "de": "Übersetzung unvollständig (",
+    "ru": "Перевод неполный (",
+    "ko": "번역 미완성 (",
+    "ja": "訳文が不完全（",
+    "zh": "译文未完整生成（"
+  },
+  "译文滚动条": {
+    "en": "Translation scrollbar",
+    "fr": "Barre de défilement de la traduction",
+    "de": "Übersetzungs-Scrollbalken",
+    "ru": "Полоса прокрутки перевода",
+    "ko": "번역 스크롤 막대",
+    "ja": "訳文スクロールバー",
+    "zh": "译文滚动条"
+  },
+  "译文过长，已停止。": {
+    "en": "Translation too long; stopped.",
+    "fr": "Traduction trop longue ; arrêtée.",
+    "de": "Übersetzung zu lang; gestoppt.",
+    "ru": "Перевод слишком длинный; остановлен.",
+    "ko": "번역이 너무 길어 중지되었습니다.",
+    "ja": "訳文が長すぎるため停止しました。",
+    "zh": "译文过长，已停止。"
+  },
+  "语言设置未能保存，请重试。": {
+    "en": "Language settings could not be saved; please retry.",
+    "fr": "Impossible d'enregistrer les paramètres de langue ; veuillez réessayer.",
+    "de": "Spracheinstellungen konnten nicht gespeichert werden; bitte erneut versuchen.",
+    "ru": "Не удалось сохранить языковые настройки; повторите попытку.",
+    "ko": "언어 설정을 저장하지 못했습니다. 다시 시도하세요.",
+    "ja": "言語設定を保存できませんでした。再試行してください。",
+    "zh": "语言设置未能保存，请重试。"
+  },
+  "请先在主窗口填写 API Key 并保存开启。": {
+    "en": "Please enter and save an API Key in the main window and enable it first.",
+    "fr": "Veuillez d'abord saisir et enregistrer une clé API dans la fenêtre principale et l'activer.",
+    "de": "Bitte geben Sie zuerst im Hauptfenster einen API Key ein, speichern Sie ihn und aktivieren Sie ihn.",
+    "ru": "Сначала укажите и сохраните API Key в главном окне и включите его.",
+    "ko": "먼저 기본 창에서 API Key를 입력하고 저장한 뒤 활성화하세요.",
+    "ja": "先にメインウィンドウで API Key を入力して保存し、有効にしてください。",
+    "zh": "请先在主窗口填写 API Key 并保存开启。"
+  },
+  "请先填写 API Key。": {
+    "en": "Please enter an API Key first.",
+    "fr": "Veuillez d'abord saisir une clé API.",
+    "de": "Bitte geben Sie zuerst einen API Key ein.",
+    "ru": "Сначала укажите API Key.",
+    "ko": "먼저 API Key를 입력하세요.",
+    "ja": "先に API Key を入力してください。",
+    "zh": "请先填写 API Key。"
+  },
+  "请在 PowerPoint 文本框内编辑文字": {
+    "en": "Please edit text inside a PowerPoint text box",
+    "fr": "Veuillez modifier le texte dans une zone de texte PowerPoint",
+    "de": "Bitte bearbeiten Sie Text in einem PowerPoint-Textfeld",
+    "ru": "Редактируйте текст в текстовом поле PowerPoint",
+    "ko": "PowerPoint 텍스트 상자 안에서 텍스트를 편집하세요",
+    "ja": "PowerPoint のテキスト ボックス内でテキストを編集してください",
+    "zh": "请在 PowerPoint 文本框内编辑文字"
+  },
+  "请填写有效的 HTTPS 服务地址；本机服务可使用 HTTP。地址不能包含密钥、查询参数或片段。": {
+    "en": "Enter a valid HTTPS service address; local services may use HTTP. The address must not contain keys, query parameters, or fragments.",
+    "fr": "Saisissez une adresse de service HTTPS valide ; les services locaux peuvent utiliser HTTP. L'adresse ne doit pas contenir de clés, de paramètres de requête ni de fragments.",
+    "de": "Geben Sie eine gültige HTTPS-Dienstadresse ein; lokale Dienste dürfen HTTP verwenden. Die Adresse darf keine Schlüssel, Abfrageparameter oder Fragmente enthalten.",
+    "ru": "Укажите действительный адрес HTTPS-сервиса; для локальных сервисов допускается HTTP. Адрес не должен содержать ключи, параметры запроса или фрагменты.",
+    "ko": "유효한 HTTPS 서비스 주소를 입력하세요. 로컬 서비스는 HTTP를 사용할 수 있습니다. 주소에는 키, 쿼리 매개변수 또는 프래그먼트가 포함될 수 없습니다.",
+    "ja": "有効な HTTPS サービス アドレスを入力してください。ローカル サービスは HTTP を使用できます。アドレスにキー、クエリ パラメーター、フラグメントを含めることはできません。",
+    "zh": "请填写有效的 HTTPS 服务地址；本机服务可使用 HTTP。地址不能包含密钥、查询参数或片段。"
+  },
+  "请填写模型名称。": {
+    "en": "Please enter a model name.",
+    "fr": "Veuillez saisir un nom de modèle.",
+    "de": "Bitte geben Sie einen Modellnamen ein.",
+    "ru": "Укажите имя модели.",
+    "ko": "모델 이름을 입력하세요.",
+    "ja": "モデル名を入力してください。",
+    "zh": "请填写模型名称。"
+  },
+  "请将光标放入 Word 正文": {
+    "en": "Place the cursor in the Word body text",
+    "fr": "Placez le curseur dans le corps de texte Word",
+    "de": "Setzen Sie den Cursor in den Word-Textkörper",
+    "ru": "Поместите курсор в текст Word",
+    "ko": "커서를 Word 본문에 놓으세요",
+    "ja": "カーソルを Word の本文内に置いてください",
+    "zh": "请将光标放入 Word 正文"
+  },
+  "请求参数或模型名称不受支持，请检查模型设置。": {
+    "en": "Request parameters or model name not supported; check model settings.",
+    "fr": "Paramètres de requête ou nom de modèle non pris en charge ; vérifiez les paramètres du modèle.",
+    "de": "Anfrageparameter oder Modellname nicht unterstützt; prüfen Sie die Modelleinstellungen.",
+    "ru": "Параметры запроса или имя модели не поддерживаются; проверьте настройки модели.",
+    "ko": "요청 매개변수 또는 모델 이름이 지원되지 않습니다. 모델 설정을 확인하세요.",
+    "ja": "リクエスト パラメーターまたはモデル名がサポートされていません。モデル設定を確認してください。",
+    "zh": "请求参数或模型名称不受支持，请检查模型设置。"
+  },
+  "请求受限，请稍后重试或增加停笔等待时间。": {
+    "en": "Request limited; retry later or increase the pause-after-typing wait time.",
+    "fr": "Requête limitée ; réessayez plus tard ou augmentez le délai d'attente après la saisie.",
+    "de": "Anfrage begrenzt; versuchen Sie es später erneut oder erhöhen Sie die Wartezeit nach dem Tippen.",
+    "ru": "Запрос ограничен; повторите позже или увеличьте задержку после окончания ввода.",
+    "ko": "요청이 제한되었습니다. 나중에 다시 시도하거나 입력 후 대기 시간을 늘리세요.",
+    "ja": "リクエストが制限されています。後で再試行するか、入力停止後の待機時間を増やしてください。",
+    "zh": "请求受限，请稍后重试或增加停笔等待时间。"
+  },
+  "请求后首段译文 ": {
+    "en": "First text after request ",
+    "fr": "Premier segment de traduction après la requête ",
+    "de": "Erstes Übersetzungssegment nach der Anfrage ",
+    "ru": "Первый фрагмент перевода после запроса ",
+    "ko": "요청 후 첫 번째 번역 구간 ",
+    "ja": "リクエスト後の最初の訳文セグメント ",
+    "zh": "请求后首段译文 "
+  },
+  "请求超时或网络中断，请重新划词。": {
+    "en": "Request timed out or network interrupted. Please select text again.",
+    "fr": "Délai dépassé ou réseau interrompu. Veuillez resélectionner le texte.",
+    "de": "Zeitüberschreitung oder Netzwerkunterbrechung. Bitte Text erneut auswählen.",
+    "ru": "Время ожидания истекло или сеть прервана. Выделите текст заново.",
+    "ko": "요청 시간 초과 또는 네트워크 중단. 텍스트를 다시 선택하세요.",
+    "ja": "タイムアウトまたはネットワーク切断。テキストを選択し直してください。",
+    "zh": "请求超时或网络中断，请重新划词。"
+  },
+  "请求超时；Ctrl+Alt+R 重试。": {
+    "en": "Request timed out; Ctrl+Alt+R to retry.",
+    "fr": "Délai dépassé ; Ctrl+Alt+R pour réessayer.",
+    "de": "Zeitüberschreitung; Ctrl+Alt+R zum Wiederholen.",
+    "ru": "Время ожидания истекло; Ctrl+Alt+R для повтора.",
+    "ko": "요청 시간 초과; Ctrl+Alt+R로 재시도.",
+    "ja": "タイムアウト。Ctrl+Alt+R で再試行。",
+    "zh": "请求超时；Ctrl+Alt+R 重试。"
+  },
+  "请等待当前整段译文完成后再按替换快捷键。": {
+    "en": "Wait for the current full translation to finish before pressing the replace shortcut.",
+    "fr": "Attendez la fin de la traduction complète en cours avant d'appuyer sur le raccourci de remplacement.",
+    "de": "Warten Sie, bis die aktuelle vollständige Übersetzung fertig ist, bevor Sie die Ersetzen-Tastenkombination drücken.",
+    "ru": "Дождитесь завершения текущего полного перевода, прежде чем нажать сочетание замены.",
+    "ko": "현재 전체 번역이 완료될 때까지 기다린 후 바꾸기 단축키를 누르세요.",
+    "ja": "現在の全文翻訳が完了してから置換ショートカットを押してください。",
+    "zh": "请等待当前整段译文完成后再按替换快捷键。"
+  },
+  "请输入待翻译的文字。": {
+    "en": "Enter the text to translate.",
+    "fr": "Saisissez le texte à traduire.",
+    "de": "Geben Sie den zu übersetzenden Text ein.",
+    "ru": "Введите текст для перевода.",
+    "ko": "번역할 텍스트를 입력하세요.",
+    "ja": "翻訳するテキストを入力してください。",
+    "zh": "请输入待翻译的文字。"
+  },
+  "请选择两种不同的语言。": {
+    "en": "Please select two different languages.",
+    "fr": "Veuillez sélectionner deux langues différentes.",
+    "de": "Bitte wählen Sie zwei verschiedene Sprachen.",
+    "ru": "Выберите два разных языка.",
+    "ko": "서로 다른 두 언어를 선택하세요.",
+    "ja": "異なる2つの言語を選択してください。",
+    "zh": "请选择两种不同的语言。"
+  },
+  "请重新拖选文字。当前应用可能未提供选区，或剪贴板暂时无法读取。": {
+    "en": "Please drag-select the text again. The current app may not provide a selection, or the clipboard is temporarily unreadable.",
+    "fr": "Veuillez resélectionner le texte par glisser. L'application actuelle ne fournit peut-être pas de sélection, ou le presse-papiers est temporairement illisible.",
+    "de": "Bitte wählen Sie den Text erneut per Ziehen aus. Die aktuelle App stellt möglicherweise keine Auswahl bereit, oder die Zwischenablage ist vorübergehend nicht lesbar.",
+    "ru": "Выделите текст заново перетаскиванием. Текущее приложение может не предоставлять выделение, или буфер обмена временно недоступен.",
+    "ko": "텍스트를 다시 드래그하여 선택하세요. 현재 앱이 선택 영역을 제공하지 않거나 클립보드를 일시적으로 읽을 수 없습니다.",
+    "ja": "テキストをドラッグで選択し直してください。現在のアプリが選択範囲を提供していないか、クリップボードを一時的に読み取れません。",
+    "zh": "请重新拖选文字。当前应用可能未提供选区，或剪贴板暂时无法读取。"
+  },
+  "读取完成后翻译 · 原有译文已失效": {
+    "en": "Translate after reading · Previous translation invalidated",
+    "fr": "Traduire après lecture · Traduction précédente invalidée",
+    "de": "Nach dem Lesen übersetzen · Vorherige Übersetzung ungültig",
+    "ru": "Перевести после чтения · Предыдущий перевод недействителен",
+    "ko": "읽은 후 번역 · 이전 번역 무효",
+    "ja": "読み取り後に翻訳 · 以前の翻訳は無効",
+    "zh": "读取完成后翻译 · 原有译文已失效"
+  },
+  "输入中 · 等待停笔": {
+    "en": "Typing · Waiting for pause",
+    "fr": "Saisie · En attente de pause",
+    "de": "Eingabe · Warte auf Pause",
+    "ru": "Ввод · Ожидание паузы",
+    "ko": "입력 중 · 멈춤 대기",
+    "ja": "入力中 · 停止待ち",
+    "zh": "输入中 · 等待停笔"
+  },
+  "输入中 · 等待短暂停顿": {
+    "en": "Typing · Waiting for short pause",
+    "fr": "Saisie · En attente d'une courte pause",
+    "de": "Eingabe · Warte auf kurze Pause",
+    "ru": "Ввод · Ожидание короткой паузы",
+    "ko": "입력 중 · 짧은 멈춤 대기",
+    "ja": "入力中 · 短い停止待ち",
+    "zh": "输入中 · 等待短暂停顿"
+  },
+  "输入已变化 · 正在更新": {
+    "en": "Input changed · Updating",
+    "fr": "Saisie modifiée · Mise à jour",
+    "de": "Eingabe geändert · Aktualisierung",
+    "ru": "Ввод изменён · Обновление",
+    "ko": "입력 변경됨 · 업데이트 중",
+    "ja": "入力変更 · 更新中",
+    "zh": "输入已变化 · 正在更新"
+  },
+  "输入所选语言中的任一种，观察浮窗。完成后按 Ctrl+Alt+E 替换整段。": {
+    "en": "Type in either selected language and watch the floating window. When done, press Ctrl+Alt+E to replace the whole passage.",
+    "fr": "Saisissez dans l'une des langues sélectionnées et observez la fenêtre flottante. Une fois terminé, appuyez sur Ctrl+Alt+E pour remplacer tout le passage.",
+    "de": "Geben Sie in einer der ausgewählten Sprachen ein und beobachten Sie das schwebende Fenster. Drücken Sie anschließend Ctrl+Alt+E, um den gesamten Abschnitt zu ersetzen.",
+    "ru": "Введите текст на любом из выбранных языков и следите за плавающим окном. По завершении нажмите Ctrl+Alt+E, чтобы заменить весь фрагмент.",
+    "ko": "선택한 언어 중 하나로 입력하고 플로팅 창을 확인하세요. 완료되면 Ctrl+Alt+E를 눌러 전체 단락을 바꾸세요.",
+    "ja": "選択した言語のいずれかで入力し、フローティングウィンドウを確認します。完了したら Ctrl+Alt+E で段落全体を置換します。",
+    "zh": "输入所选语言中的任一种，观察浮窗。完成后按 Ctrl+Alt+E 替换整段。"
+  },
+  "输入框已清空，继续输入即可。": {
+    "en": "Input box cleared; just keep typing.",
+    "fr": "Zone de saisie vidée ; continuez simplement à saisir.",
+    "de": "Eingabefeld geleert; geben Sie einfach weiter ein.",
+    "ru": "Поле ввода очищено; просто продолжайте вводить.",
+    "ko": "입력란이 비워졌습니다. 계속 입력하세요.",
+    "ja": "入力欄をクリアしました。そのまま入力してください。",
+    "zh": "输入框已清空，继续输入即可。"
+  },
+  "输入框已识别，等待文字内容": {
+    "en": "Input box detected; waiting for text",
+    "fr": "Zone de saisie détectée ; en attente de texte",
+    "de": "Eingabefeld erkannt; warte auf Text",
+    "ru": "Поле ввода обнаружено; ожидание текста",
+    "ko": "입력란 감지됨 · 텍스트 대기",
+    "ja": "入力欄を検出 · テキスト待ち",
+    "zh": "输入框已识别，等待文字内容"
+  },
+  "输入框已识别，请输入文字。": {
+    "en": "Input box detected; please type.",
+    "fr": "Zone de saisie détectée ; veuillez saisir.",
+    "de": "Eingabefeld erkannt; bitte eingeben.",
+    "ru": "Поле ввода обнаружено; введите текст.",
+    "ko": "입력란 감지됨 · 입력하세요.",
+    "ja": "入力欄を検出しました。入力してください。",
+    "zh": "输入框已识别，请输入文字。"
+  },
+  "输入框或原文已变化，请等待最新译文后再替换。": {
+    "en": "The input box or source text has changed; wait for the latest translation before replacing.",
+    "fr": "La zone de saisie ou le texte source a changé ; attendez la dernière traduction avant de remplacer.",
+    "de": "Eingabefeld oder Originaltext hat sich geändert; warten Sie auf die neueste Übersetzung, bevor Sie ersetzen.",
+    "ru": "Поле ввода или исходный текст изменились; дождитесь последнего перевода, прежде чем заменять.",
+    "ko": "입력란 또는 원문이 변경되었습니다. 최신 번역을 기다린 후 바꾸세요.",
+    "ja": "入力欄または原文が変更されました。最新の翻訳を待ってから置換してください。",
+    "zh": "输入框或原文已变化，请等待最新译文后再替换。"
+  },
+  "退出": {
+    "en": "Exit",
+    "fr": "Quitter",
+    "de": "Beenden",
+    "ru": "Выход",
+    "ko": "종료",
+    "ja": "終了",
+    "zh": "退出"
+  },
+  "选中文字": {
+    "en": "Selected text",
+    "fr": "Sélectionner le texte",
+    "de": "Text auswählen",
+    "ru": "Выделить текст",
+    "ko": "텍스트 선택",
+    "ja": "テキストを選択",
+    "zh": "选中文字"
+  },
+  "部分快捷键被占用。请关闭占用它们的软件后重新打开 SpokenFlow。": {
+    "en": "Some shortcuts are taken. Close the apps using them, then reopen SpokenFlow.",
+    "fr": "Certains raccourcis sont occupés. Fermez les applications qui les utilisent, puis rouvrez SpokenFlow.",
+    "de": "Einige Tastenkombinationen sind belegt. Schließen Sie die Apps, die sie verwenden, und öffnen Sie SpokenFlow erneut.",
+    "ru": "Некоторые сочетания клавиш заняты. Закройте использующие их приложения и снова откройте SpokenFlow.",
+    "ko": "일부 단축키가 사용 중입니다. 해당 단축키를 사용하는 앱을 닫은 후 SpokenFlow를 다시 여세요.",
+    "ja": "一部のショートカットが使用中です。使用しているアプリを閉じてから SpokenFlow を再度開いてください。",
+    "zh": "部分快捷键被占用。请关闭占用它们的软件后重新打开 SpokenFlow。"
+  },
+  "长文本": {
+    "en": "Long text",
+    "fr": "Texte long",
+    "de": "Langer Text",
+    "ru": "Длинный текст",
+    "ko": "긴 텍스트",
+    "ja": "長文",
+    "zh": "长文本"
+  },
+  "预览期间可在此输入，检查浮窗是否影响输入焦点。": {
+    "en": "You can type here during preview to check whether the floating window affects input focus.",
+    "fr": "Vous pouvez saisir ici pendant l'aperçu pour vérifier si la fenêtre flottante affecte le focus de saisie.",
+    "de": "Sie können während der Vorschau hier tippen, um zu prüfen, ob das schwebende Fenster den Eingabefokus beeinträchtigt.",
+    "ru": "Во время предпросмотра можно вводить здесь, чтобы проверить, влияет ли плавающее окно на фокус ввода.",
+    "ko": "미리보기 중에 여기에 입력하여 플로팅 창이 입력 포커스에 영향을 주는지 확인할 수 있습니다.",
+    "ja": "プレビュー中にここへ入力して、フローティングウィンドウが入力フォーカスに影響するか確認できます。",
+    "zh": "预览期间可在此输入，检查浮窗是否影响输入焦点。"
+  },
+  "预览浮窗": {
+    "en": "Preview popup",
+    "fr": "Fenêtre d'aperçu",
+    "de": "Vorschau-Popup",
+    "ru": "Окно предпросмотра",
+    "ko": "미리보기 팝업",
+    "ja": "プレビューウィンドウ",
+    "zh": "预览浮窗"
+  },
+  "首段译文与整段完成耗时将在这里显示": {
+    "en": "Time to first text and completion will appear here",
+    "fr": "Le temps du premier paragraphe et de la fin complète s'afficheront ici",
+    "de": "Zeit bis zum ersten Absatz und zur vollständigen Fertigstellung wird hier angezeigt",
+    "ru": "Здесь будет показано время до первого абзаца и до полного завершения",
+    "ko": "첫 단락 및 전체 완료 소요 시간이 여기에 표시됩니다",
+    "ja": "最初の段落と全体の完了までの時間がここに表示されます",
+    "zh": "首段译文与整段完成耗时将在这里显示"
+  },
+  "），不能替换。请缩短原文后重试。": {
+    "en": "), cannot be replaced. Please shorten the original text and try again.",
+    "fr": "), ne peut pas être remplacé. Veuillez raccourcir le texte original et réessayer.",
+    "de": "), kann nicht ersetzt werden. Bitte kürzen Sie den Originaltext und versuchen Sie es erneut.",
+    "ru": "), нельзя заменить. Сократите исходный текст и повторите попытку.",
+    "ko": "), 대체할 수 없습니다. 원문을 줄인 후 다시 시도하세요.",
+    "ja": ")、置き換えできません。原文を短くして再試行してください。",
+    "zh": "），不能替换。请缩短原文后重试。"
+  },
+  "，请切换到输入框。": {
+    "en": ", please switch to the input field.",
+    "fr": ", veuillez passer au champ de saisie.",
+    "de": ", bitte wechseln Sie zum Eingabefeld.",
+    "ru": ", переключитесь на поле ввода.",
+    "ko": ", 입력란으로 전환하세요.",
+    "ja": ")、入力欄に切り替えてください。",
+    "zh": "，请切换到输入框。"
+  },
+  "，输入和划词同时生效。": {
+    "en": ", input and text selection take effect simultaneously.",
+    "fr": ", la saisie et la sélection de texte s'appliquent simultanément.",
+    "de": ", Eingabe und Textauswahl wirken gleichzeitig.",
+    "ru": ", ввод и выделение текста действуют одновременно.",
+    "ko": ", 입력과 텍스트 선택이 동시에 적용됩니다.",
+    "ja": ")、入力とテキスト選択が同時に有効になります。",
+    "zh": "，输入和划词同时生效。"
+  },
+  "；Ctrl+Alt+Z 可恢复原文": {
+    "en": "; Ctrl+Alt+Z restores the original text",
+    "fr": "; Ctrl+Alt+Z restaure le texte original",
+    "de": "; Ctrl+Alt+Z stellt den Originaltext wieder her",
+    "ru": "; Ctrl+Alt+Z восстанавливает исходный текст",
+    "ko": "; Ctrl+Alt+Z로 원문을 복원할 수 있습니다",
+    "ja": ")。Ctrl+Alt+Z で原文を復元できます",
+    "zh": "；Ctrl+Alt+Z 可恢复原文"
+  }
+}

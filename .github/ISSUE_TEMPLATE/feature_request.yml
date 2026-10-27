@@ -1,0 +1,20 @@
+name: Feature proposal / 功能建议
+description: Describe the problem and a testable outcome / 描述问题和可验证的目标
+title: "[Feature] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve? / 要解决什么问题？
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Desired behavior and validation / 期望行为与验证方式
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Alternatives, privacy and compatibility / 替代方案、隐私与兼容性

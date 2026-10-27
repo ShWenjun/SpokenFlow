@@ -1,0 +1,104 @@
+SpokenFlow Noncommercial Source-Available License 1.0
+Copyright (c) 2026 ShWenjun and the respective contributors.
+
+This is a custom noncommercial source-available license, not GPL, PolyForm,
+or an OSI-approved open-source license.
+The Chinese text is controlling; the English text is a convenience translation.
+
+一、范围与定义
+“软件”指权利人以本许可发布的 SpokenFlow 源码、程序、构建脚本及项目文档。
+第三方组件适用各自许可。个人飞鸟标识、图标、名称等品牌元素不属于本许可
+授权范围，其使用另见 BRANDING.md。此许可不主张对你的输入或翻译结果取得
+权利，也不替代翻译服务商的服务条款。
+“修改版”指对软件的修改及基于软件形成的衍生作品。“分发”指向任何其他人
+或组织提供源码或程序副本，包括无偿提供。
+
+二、非商业授权
+在你遵守本许可的前提下，权利人就其有权授权的部分，允许你为个人非商业
+目的、非商业教学及非商业研究使用、复制、研究、修改和分发软件。
+不得为直接或间接商业利益使用软件。禁止的用途包括：企业内部办公或运营、
+为雇主完成工作、个人有偿工作、收费教学或服务、销售或收费分发软件、将
+软件纳入商业产品、通过广告或付费服务获利。免费提供给终端用户，并不使
+商业产品或服务成为非商业用途；教育或研究名义也不使商业项目自动获得授权。
+本许可不授予商业使用权；超出许可范围须取得所有相关权利人的另行许可。
+
+三、分发与对应源码
+分发软件或修改版时，必须：
+1. 随附本许可、原有版权声明及适用的品牌与第三方权利声明。
+2. 将基于软件的修改版在本许可条件下提供给接收者，保留非商业限制，不得
+   以额外条件剥夺本许可已授予接收者的权利。独立且非衍生的组件保持自身许可。
+3. 分发可执行程序时，同时提供与该程序对应的完整源码，或在提供程序的同一
+   位置给予免费、等效的源码下载方式，并在程序可获得期间持续提供该源码。
+   对应完整源码包括修改、构建脚本、必要配置与依赖说明，使接收者能够构建
+   该版本；不要求再分发操作系统、通用运行库、无关私人资料或 API 密钥。
+4. 清楚标注修改事实、修改者及版本差异，不得把修改版冒充官方版本。
+接收者可以依这些条款继续修改和分发。仅在私人范围修改而未分发，无须向
+公众公开源码；本条款不要求将修改版上传到公开 GitHub 仓库。
+
+四、权利保留与法律例外
+作者保留其著作权。本许可不转让所有权，不授权使用商标或个人标识，不为
+第三方的专利或其他权利提供保证。适用法律允许的合理使用等法定权利不受
+本许可限制。本许可不限制与软件无衍生关系的独立作品。
+
+五、终止与恢复
+违反本许可会终止本许可授予的权利。你首次收到权利人书面通知后，如在
+三十日内完全纠正该次违反，相关许可恢复；重复违反或逾期未纠正，需要
+权利人的书面恢复许可。已合规取得副本的接收者，不因你的违反而自动丧失
+他们自己的许可。终止不影响依法应承担的责任。
+
+六、无保证及责任限制
+在适用法律允许的最大范围内，软件按“现状”提供，不保证适销性、特定用途
+适用性、不侵权、准确性、连续可用性或与其他软件的兼容性。权利人和贡献者
+不对由软件造成的损害承担责任，包括文字替换、数据丢失、API 费用、业务
+中断及间接损失。本条不排除法律不允许排除或限制的保证或责任。
+
+English convenience translation
+
+1. Scope. Software means the SpokenFlow source, executable, build scripts and
+documentation released under these terms by their rights holders. Third-party
+components retain their licenses. Branding is excluded and governed separately
+by BRANDING.md. No rights in your input or translation output are claimed here;
+translation-provider terms remain separate. Modified versions include changes
+and derivative works. Distribution includes giving copies to another person or
+organization, with or without payment.
+
+2. Permission. Subject to these terms, each licensor permits use, copying,
+study, modification and distribution of the portions they may license solely
+for personal noncommercial use, noncommercial teaching and noncommercial
+research. Direct or indirect commercial purposes are prohibited, including
+internal business operations, work for an employer, paid individual work,
+paid teaching/services, sales or paid distribution, commercial product
+integration, and advertising-funded or paid services. Free end-user access
+does not make a commercial service noncommercial. Educational/research labels
+do not exempt commercial projects. Commercial use requires separate permission
+from all relevant rights holders.
+
+3. Distribution. Include this license, copyright and applicable branding and
+third-party notices. License modified/derivative versions under these same
+terms, preserving the noncommercial condition and recipients' granted rights.
+Independent nonderivative components retain their own terms. Distribute the
+complete corresponding source with any executable, or provide equivalent,
+free access alongside it for as long as the executable is offered. Source
+includes changes, build scripts, necessary configuration and dependency
+instructions sufficient to build that version, but excludes the OS, general
+runtime libraries, unrelated private data and API credentials. Clearly mark
+changes, authorship and version differences; do not imply an official release.
+Recipients may further modify and distribute under these terms. Private
+modification without distribution does not require public source publication.
+
+4. Reserved rights. Copyright ownership is retained. These terms grant no
+trademark or personal-mark rights, warrant no third-party patent or other
+rights, and do not restrict statutory exceptions or independent works.
+
+5. Termination. Breach terminates the permissions granted here. On the first
+written notice from a rights holder, complete cure within thirty days restores
+the relevant permissions. Repeated or uncured breaches require written
+reinstatement. Compliant recipients do not automatically lose their own rights
+because of a distributor's breach. Legal liability is not waived.
+
+6. Disclaimer. To the maximum extent permitted by applicable law, the software
+is supplied as-is without warranties of merchantability, fitness, title,
+noninfringement, accuracy, availability or compatibility. Rights holders and
+contributors are not liable for software-related damages, including text
+replacement, data loss, API charges, interruption or indirect loss. Mandatory
+warranties and liabilities that cannot legally be excluded remain unaffected.

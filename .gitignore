@@ -1,0 +1,21 @@
+# Build output; publish reviewed archives as release assets, not Git objects.
+/artifacts/
+/bin/
+/obj/
+.vs/
+*.user
+*.suo
+*.log
+*.tmp
+# Machine-local configuration and credentials must never enter the repository.
+.env
+.env.*
+settings.json
+appearance.json
+bubble-position.json
+*.pfx
+*.p12
+*.pem
+*.key
+Thumbs.db
+Desktop.ini

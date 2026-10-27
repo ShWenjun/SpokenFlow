@@ -1,0 +1,23 @@
+name: Usage help / 使用求助
+description: Ask about configuration or documented behavior / 咨询设置与使用方式
+title: "[Help] "
+body:
+  - type: markdown
+    attributes:
+      value: Check SUPPORT.md and existing issues first. Do not share keys, full settings files or private conversations. 请先查看使用说明和已有问题，不要上传密钥、完整配置或私人对话。
+  - type: textarea
+    id: question
+    attributes:
+      label: Question / 问题
+      description: Describe what you want to do and where you got stuck. 说明希望完成的操作和遇到的问题。
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Relevant versions and settings / 相关版本与设置
+      description: Include SpokenFlow, Windows and target app versions where relevant. 按需提供软件、Windows 和目标应用版本。
+  - type: textarea
+    id: tried
+    attributes:
+      label: What have you tried? / 已尝试的方法

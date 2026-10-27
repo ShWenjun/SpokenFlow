@@ -1,0 +1,47 @@
+name: Translation or UI wording / 翻译与界面文字
+description: Report a wrong direction, meaning or interface label / 报告方向、含义或界面文案问题
+title: "[Translation] "
+body:
+  - type: markdown
+    attributes:
+      value: Use a synthetic example. Do not include keys or private messages. 请使用固定例句，不要附密钥或私人内容。
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Affected feature / 问题类型
+      options:
+        - Typing translation / 输入翻译
+        - Selected text / 划词翻译
+        - Interface wording / 界面文案
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: SpokenFlow version / 软件版本
+    validations:
+      required: true
+  - type: input
+    id: languages
+    attributes:
+      label: UI language or translation pair / 界面语言或互译组合
+    validations:
+      required: true
+  - type: input
+    id: provider
+    attributes:
+      label: Provider and model / 服务商与模型
+      description: Model output issues only. Do not include credentials or private endpoint addresses. 仅模型译文问题需要填写，不要附凭证或私人接口地址。
+  - type: textarea
+    id: example
+    attributes:
+      label: Source and actual result / 原文与实际结果
+      description: For UI wording, give the label and where it appears. 界面问题请说明文字及所在位置。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Suggested wording and reason / 建议表达与原因
+    validations:
+      required: true

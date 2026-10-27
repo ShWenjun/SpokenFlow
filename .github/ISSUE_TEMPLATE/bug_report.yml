@@ -1,0 +1,47 @@
+name: Bug or compatibility report / 问题与兼容性
+description: Report a reproducible problem using synthetic text / 使用固定例句报告问题
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Do not attach API keys, private chats or account settings. 不要附密钥、真实聊天或账号配置。Security reports: see SECURITY.md."
+  - type: input
+    id: version
+    attributes:
+      label: SpokenFlow version / 版本
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment / 环境
+      description: Windows version, target app version, input method and display scaling / Windows、软件、输入法版本和缩放比例
+    validations:
+      required: true
+  - type: input
+    id: languages
+    attributes:
+      label: Language pair and model / 语言组合与模型
+      description: For translation issues, include both selected languages and the model name / 翻译问题请填写两种语言和模型名称，不要填写密钥
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps and synthetic input / 步骤与固定例句
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Expected and actual behavior / 预期与实际
+      description: Mention capture, replacement and restore separately / 区分读取、替换、恢复是否成功
+    validations:
+      required: true
+  - type: checkboxes
+    id: privacy
+    attributes:
+      label: Before submitting / 提交前
+      options:
+        - label: I removed credentials and private content / 已移除密钥及私人内容
+          required: true
+        - label: I checked the compatibility matrix / 已查看兼容性矩阵
+          required: true
