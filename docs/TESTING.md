@@ -1,6 +1,6 @@
 # 测试记录 / Test evidence
 
-记录日期为 2026-10-26。以下是本地验证结果，GitHub Actions 尚未运行。
+记录更新于 2026-10-27。本地构建和源码包独立重建均通过 34 项离线测试。GitHub 的 Windows 构建也已通过相同检查，见[首次云端构建记录](https://github.com/ShWenjun/SpokenFlow/actions/runs/40481242481)。后续提交的状态见[构建列表](https://github.com/ShWenjun/SpokenFlow/actions/workflows/build.yml)。
 
 ## 离线测试
 
@@ -8,7 +8,7 @@
 
 语言测试检查七种文字的触发条件、全部 21 种组合的有效性与缓存区分、双向缓存标识一致、重复语言拒绝、旧配置迁移和设置保存。固定数据测试不发送 API 请求。
 
-发布候选从实际源码 ZIP 解压至独立目录后重新构建，同样通过 34 项测试。
+实际发布源码 ZIP 解压至独立目录后重新构建，同样通过 34 项测试。
 
 ## 实际 API 检查
 
@@ -32,8 +32,8 @@
 
 ## English
 
-On 2026-10-26, all 34 local offline checks passed. They cover streaming completion, stale-result rejection, capture scopes, browser combobox recognition, selection retries and cancellation, clipboard concurrency, minimization state and language settings. All 21 pairs are checked for validity and cache separation, alongside migration and persistence. These checks make no API calls. A fresh build from the actual source archive also passed all 34 checks.
+As of 2026-10-27, all 34 local offline checks passed. They cover streaming completion, stale-result rejection, capture scopes, browser combobox recognition, selection retries and cancellation, clipboard concurrency, minimization state and language settings. All 21 pairs are checked for validity and cache separation, alongside migration and persistence. These checks make no API calls. A fresh build from the actual source archive also passed all 34 checks. The same checks passed in the [first GitHub Windows build](https://github.com/ShWenjun/SpokenFlow/actions/runs/40481242481); see the [workflow runs](https://github.com/ShWenjun/SpokenFlow/actions/workflows/build.yml) for later commits.
 
 Fourteen actual API requests used fixed examples meaning “Let's talk later,” covering the seven pairs above in both directions. Output language and basic meaning were reviewed. No private conversation was read. This is a small smoke test, not a professional quality benchmark or live coverage of all 21 pairs.
 
-English, German and Chinese UI switching and persistence were checked locally. Offline checks cover complete catalogs, preservation of user text, configuration migration, endpoint validation and mocked authenticated streaming. Other providers have not been tested live. Full UI interaction with language controls, selection reliability across pages, dragging the minimized icon, input-method composition and unverified application adapters still need manual testing. Hosted CI has not run. See the compatibility matrix for existing evidence.
+English, German and Chinese UI switching and persistence were checked locally. Offline checks cover complete catalogs, preservation of user text, configuration migration, endpoint validation and mocked authenticated streaming. Other providers have not been tested live. Full UI interaction with language controls, selection reliability across pages, dragging the minimized icon, input-method composition and unverified application adapters still need manual testing. See the compatibility matrix for existing evidence.

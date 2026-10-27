@@ -4,9 +4,9 @@
 
 This early preview has no independent security audit or long-term-support promise. Reports against the current preview are prioritized.
 
-仓库公开后，如 Security 页面存在 Report a vulnerability，请通过该私密入口报告。此功能需要维护者在仓库设置中启用，本地候选包不能证明它已启用。若入口不存在，请先向维护者请求私密联系渠道，公开内容只说明“需要安全联系”，不要附漏洞细节或密钥。
+请通过 GitHub 的[私密漏洞报告入口](https://github.com/ShWenjun/SpokenFlow/security/advisories/new)提交安全问题。仓库已启用此功能。若入口不可用，请先向维护者请求私密联系渠道，公开内容只说明需要安全联系，不要附漏洞细节或密钥。
 
-If the published repository's Security tab offers Report a vulnerability, use that private channel. It must be enabled by the maintainer; this local candidate does not establish that it is enabled. Otherwise request a private contact route without posting exploit details or credentials publicly.
+Use GitHub's [private vulnerability reporting form](https://github.com/ShWenjun/SpokenFlow/security/advisories/new), which is enabled for this repository. If the form is unavailable, request a private contact route without posting exploit details or credentials publicly.
 
 请提供受影响版本、问题类别、固定复现步骤、影响和可行修复建议。敏感数据应先移除；如果密钥已经泄露，应由密钥所有者在服务商处撤销并更换，不要把新密钥发给维护者。
 
